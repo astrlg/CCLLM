@@ -38,3 +38,4 @@ git clone https://github.com/astrlg/CCLLM.git
 cd CCLLM
 pip install -r requirements.txt
 
+Data and notebooks folders contents must be placed in the same directory for code to run smoothly.
