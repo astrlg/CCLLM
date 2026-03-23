@@ -28,6 +28,7 @@ Make sure you have the following software installed:
 - Python (version 3.10.8 was used for all analyses)
 - Required Python libraries (can be installed via `requirements.txt`)
 
+Data and notebooks folders contents must be placed in the same directory for code to run smoothly.
 
 ### Setup
 
@@ -37,5 +38,3 @@ Clone this repository and install required packages:
 git clone https://github.com/astrlg/CCLLM.git
 cd CCLLM
 pip install -r requirements.txt```
-
-Data and notebooks folders contents must be placed in the same directory for code to run smoothly.
