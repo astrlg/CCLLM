@@ -13,7 +13,7 @@ The increasing ability of large language models (LLMs) to emulate human behavior
 - `data/` - This folder contains all the data used in the experiments, including input datasets and any generated outputs.
 - `notebooks/` - Jupyter notebooks for all data preprocessing, data collection and analysis, as well as models' performance evaluations. 
 All Jupyter Notebooks are found in the "notebooks" folder and are numerically organized (with alphabetical subdivisions) as follows:
-- 00 (a-b) - Preliminary Prompts Experiment
+- 00 (a) - Preliminary Prompts Experiment
 - 01 (a-c) - Part_A: Building LLM-specific Categories (Collecting Category Members)
 - 02 (a-c) - Part_A: Building LLM-specific Categories (Collecting Category Features)
 - 03 (a-f) - Part_B: Testing Prototypicality
