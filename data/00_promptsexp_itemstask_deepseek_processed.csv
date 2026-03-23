@@ -1,0 +1,179 @@
+model,prompt,prompt_id,runtime,output
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+",0,23.58438754,"Sofa, Chair, Table, Bed, Desk,Dresser,Cabinet,Bookcase,Wardrobe,Nightstand,Coffee Table,Dining Table,Dining Chair,Bench,Ottoman,Footstool,Recliner,Armchair,Console Table,Sideboard,Credenza,Filing Cabinet,Bar Stool,Shelving Unit,Chaise Lounge,Sofa Bed,Futon,Mattress,Headboard,Footboard,Vanity Table,Vanity Stool,TV Stand,Entertainment Center,Accent Chair,Hall Tree,Loveseat,Hope Chest,Blanket Chest,Curio Cabinet,Display Cabinet,Armoire,Bunk Bed,Murphy Bed,Folding Chair,Side Table,Piano Bench,Writing Desk,Secretary Desk,China Cabinet,Hutch,Daybed,Hammock,Room Divider,Screen,Plant Stand,Magazine Rack,Coat Rack,Mirror,Rug ,Stands "
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+",0,28.63925743,"Chair,Sofa,Couch,Table,Bed,Desk,Dining table,Coffee table, End table,Side table,Bench,Stool,Ottoman,Footstool,Dresser,Chest of drawers,Bureau, Wardrobe, Armoire,Cabinet,Bookcase,Bookshelf,Filing cabinet,Nightstand,Bedside table,Console table,Hall tree,Coat stand,Chaise lounge,Recliner,Rocking chair,Accent chair,Loveseat,Settee,TV stand,Entertainment center,Media console,China cabinet,Hutch, Buffet,Sideboard,Credenza,Vanity table,Dressing table,Bar cart,Bunk bed,Futon,Murphy bed,Wall bed,Daybed,Crib,Changing table,High chair,Patio furniture,Hammock ,Shelving unit,Room divider,Screen,Coat rack,Shoe bench,Rack,Folding chair,Table,Trunk,Chest,Canopy bed frame,Vanity bench,Stool,Plant stand,Display cabinet,Curio cabinet,Kitchen island,Barstool,Counter stool,Piano bench,Foyer table,Umbrella stand,Towel rack,Blanket chest,Hope chest,Functional sculpture,seating,Pantry cabinet,Magazine rack,Pedestal,Writing desk,Vanity chair, Sewing table,cabinet,Credenza,Kas,Tatami mats,seating platforms,Tansu
+"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+",0,21.96751094,"Chair,Sofa, Couch,Table,Bed,Desk,Cabinet,Bookshelf,Dresser,Chest of Drawers,Wardrobe,Coffee Table,Armchair,Stool,Bench,Ottoman,Footstool,Dining Table,Side Table,End Table,Nightstand,Bedside Table,Filing Cabinet,Bookcase,Recliner,Console Table,TV Stand,Entertainment Center,Bar Stool,Shelf,Floating Shelf, Utility Shelf,Secretary Desk,Writing Desk,Chaise Longue,Vanity,Screen,Hall Tree,Patio Furniture Set,Accent Table,Daybed,Futon,Buffet,Sideboard,China Cabinet,Bunk Bed,Rocker,Rocking Chair,Bench Seat,StepStool,Headboard,Mirror,Footboard,Chest,Hope Chest, Tool Chest,Piano Bench,Folding Table,Bar Cart"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+",0,26.38344455,"Chair,Sofa,Table,Bed,Desk,Dresser,Bookshelf,Wardrobe,Cabinet,Ottoman,Bench,Stool,Coffee Table,Dining Table,Side Table,Nightstand,Recliner,Armchair,Chaise Lounge,Buffet,Sideboard,Console Table,TV Stand,Entertainment Center,Filing Cabinet,Bookcase,Chest of Drawers,Bunk Bed,Futon,Loveseat,Bar Stool,Vanity,Hall Tree,Coat Rack,Accent Cabinet,China Cabinet,Credenza,Hammock,Park Bench,Patio Set,Shelving,Unit,Folding Chair,Table,Display Case,Mattress,Headboard,Footboard,Bed Frame,Utility Cart,Shelving Cart,Toy Box,Bar Cart"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+",0,16.78848815,"Sofa,Chair,Table,Coffee table,Bed,Desk,Dining table,Dresser,Bookcase,Bookshelf,Wardrobe,Armchair,Side table,End table,Ottoman,Footstool,Bench,Loveseat,Futon,Cabinet,Chest of drawers,Filing cabinet,Console table,Nightstand,Recliner,Chaise lounge,Bar stool,Counter stool,Folding chair,Coat rack,Hall tree,Trunk,Hope chest,Shelving unit,Etagere,Footrest,Pedestal,Fireplace mantel,Pillar, table base,pedestal table,Kitchen island ,Room divider screen"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,16.52603769,"Sofa,Couch,Armchair,Dining Table,Coffee Table,Bed Frame,Mattress,Headboard,Dresser,Chest of Drawers,Desk,Bookcase,Bookshelf,Wardrobe,Armoire,Nightstand,Bedside Table,Ottoman,Pouf,Bench,Stool ,Bar Stool, Counter Stool,Chaise Longue,Recliner,Console Table,Entryway Table,End Table,Accent Table,Cabinet,Credenza,Sideboard,Buffet,Serving Table,Vanity,Dressing Table,TV Stand,Entertainment Center,Footstool,Footrest,Folding Chair,Daybed,Futon,Bunk Bed,Shelf,Chair,Accent Chair, Dining Chair, Armless Chair,Lounge Chair,Dining Chair,Bar Cabinet,Liquor Cabinet,Trunk,Chest,Coat Rack,Hall Tree,Table Lamp,Mirror"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,13.62737751,"sofa, chair, table, bed, desk, dresser, bookshelf, cabinet, recliner, stool, ottoman, bench, wardrobe, chest of drawers, coffee table, dining table, nightstand, end table, armchair, rocking chair, loveseat, bunk bed, futon, bookcase, console table, buffet, china cabinet, drawer, folding screen, bookshelf, bar stool, chaise lounge, pedestal, bed frame, vanity table, coat rack, bench seat, sideboard, workbench, trunk, drafting table, storage cabinet, hall tree, credenza, center table"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,11.47669864,"sofa, chair, table, bed, desk, dresser, bookshelf, coffee table, dining table, mattress, nightstand, wardrobe, armchair, ottoman, bench, cabinet, shelving unit, entertainment center, chaise lounge, vanity, stool, bar stool, console table, end table, recliner, loveseat, sofa bed, chest of drawers, dining chair, futon, sideboard, footstool, patio set, headboard"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,13.08925509,"table, chair, sofa, bed, desk, dresser, cabinet, bookshelf, wardrobe, stool, bench, ottoman, couch, loveseat, nightstand, coffee table, dining table, end table, recliner, futon, shelving unit, armoire, console table, vanity, rocking chair, bar stool, chaise lounge, bunk bed, daybed, chest of drawers, credenza, filing cabinet, TV stand, entertainment center, bookcase, footstool, hall tree, coat rack, dresser mirror, bed frame, headboard, patio set, pool chair, lounge chair, accent chair, bedside table, writing desk, filing cabinet, storage cabinet, china cabinet, curio cabinet, display cabinet, console cabinet, sofa table, plant stand, folding table, folding chair, bean bag chair, kitchen island, stool, cabinet, pantry"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,12.66868997,"chair, sofa, couch, table, bed, desk, wardrobe, dresser, cupboard, bookshelf, credenza, ottoman, stool, bench, footstool, cabinet, chest of drawers, end table, console table, coffee table, dining table, nightstand, armoire, futon, recliner, rocking chair, chaise lounge, loveseat, sectional, desk chair, bar stool, coat rack, screen room divider, vanity table, canopy bed, bunk bed, sleigh bed, dining chair, buffet table, highchair, plant stand, filing cabinet, hall tree, bed frame, daybed, trunk, hope chest, corner cabinet, folding table"
+deepseek-r1-0528,"
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,18.32588673,"chair, sofa, table, bed, stool, desk, dresser, wardrobe, bookshelf, bench, ottoman, footstool, coffee table, dining table, end table, loveseat, cabinet, chest of drawers, futon, recliner, armchair, bar stool, nightstand, entertainment center, credenza, bureau, bunk bed, chaise lounge, wardrobe, shelving unit, vanity, bar cabinet"
+deepseek-r1-0528,"
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,16.12714314,"chair, table, sofa, bed, desk, dresser, cabinet, bookshelf, stool, bench, wardrobe, coffee table, dining table, end table, ottoman, bookshelf, wardrobe, headboard, china cabinet, buffet, chaise lounge, entertainment center, armoire, vanity desk, credenza, file cabinet, bathroom cabinet, drawing table, chest of drawers
+"
+deepseek-r1-0528,"
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,19.04806685,"chair, table, sofa, couch, bed, desk, cabinet, dresser, wardrobe, stool, bookshelf, bench, nightstand, ottoman, recliner, coffee table, dining table, armoire, sideboard, bookshelf, drawer, chest, futon, bunk bed, dresser, lounge chair, vanity, buffet, hutch, china cabinet, bar stool, console table, footstool, chaise longue, end table, rocking chair, screen, shelf, chest of drawers, trunk, daybed, mantle, kitchen island, credenza, storage cabinet, cedar chest, entertainment center, TV stand, folding chair, headboard, wardrobe closet, cubby, shelf unit, filing cabinet, coat rack, bean bag chair, easel, card table, patio furniture, massage table, camp chair, hammock"
+deepseek-r1-0528,"
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,11.82564712,"chair, table, sofa, bed, desk, dresser, cabinet, bookshelf, wardrobe, bench, stool, ottoman, nightstand, dining table, coffee table, armchair, bookshelf, credenza, armoire, futon, loveseat, recliner, vanity, chaise lounge"
+deepseek-r1-0528,"
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,16.50068021,"chair, table, sofa, bed, desk, cabinet, wardrobe, bench, bookshelf, dresser, stool, ottoman, coffee table, nightstand, dining table, loveseat, armchair, futon, wardrobe, dining chair, chaise lounge, crib, bookshelf, armoire, console table, barstool, vanity, coat rack, shelf, bunk bed, footstool, folding chair, bookcase, wine rack, entertainment center, cabinet, rack, bench seat, coat stand, dressing table"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,12.32280445,"sofa, chair, table, bed, desk, dresser, wardrobe, bookshelf, cabinet, dining table, coffee table, couch, armchair, stool, bench, ottoman, nightstand, console table, bookshelf, cabinet, wardrobe, dresser, rocking chair, recliner, sideboard, buffet, chaise lounge, sofa bed, futon, end table, vanity, bookcase, hall tree, coat rack, filing cabinet, grandfather clock
+"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,9.834688187,"chair, table, sofa, bed, desk, dresser, wardrobe, bookshelf, cabinet, dining table, coffee table, nightstand, ottoman, bench, stool, recliner, couch, shelf, armoire, futon, chest of drawers"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,13.29784989,"chair, sofa, table, desk, bed, cabinet, bookshelf, wardrobe, dresser, ottoman, bench, stool, coffee table, dining table, armchair, chaise longue, end table, nightstand, chest of drawers, futon, armoire, console table, footstool, headboard, cushion, cupboard, loveseat, credenza, buffet, bureau, couch, cot, shelf, rocking chair, bed frame, mattress, vanity, folding table, bar stool, recliner, planter stand, desk chair, dresser mirror, drawer, rug, lamp"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,15.41561842,"chair, sofa, table, desk, bed, nightstand, wardrobe, dresser, bookshelf, bench, armchair, dining table, coffee table, cabinet, ottoman, recliner, dining chair, vanity, console table, sideboard, stool"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,16.57771659,"chair,sofa,table,bed,desk,bookshelf,dresser,cabinet,wardrobe,armchair,stool,bench,ottoman,coffee table,dining table,nightstand,recliner,credenza,bookcase,futon,sideboard,vanity,bureau,console table,loveseat,chaise lounge,filing cabinet,display cabinet,bar stool,chest of drawers,rocking chair"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,11.50917029,"sofa, chair, table, bed, desk, cabinet, dresser, bookshelf, wardrobe, stool, bench, ottoman, coffee table, dining table, nightstand, armoire, wardrobe, console table, shelf, loveseat, recliner, futon, daybed, headboard, footstool, bureau, sideboard, buffet, rocking chair, chaise lounge, cabinet, cupboard, bookcase"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,15.38309646,"chair, table, sofa, bed, desk, dresser, wardrobe, bookshelf, stool, bench, cabinet, side table, coffee table, dining table, ottoman, futon, recliner, nightstand, loveseat, shelf, armoire, console table, chaise lounge, chest of drawers"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,18.64730024,"sofa, chair, table, bed, desk, cabinet, wardrobe, bookshelf, dresser, stool, ottoman, bench, couch, loveseat, recliner, coffee table, end table, dining table, nightstand, console table, armoire, accent chair, TV stand, bookcase, chest of drawers, futon, headboard, footstool, bar stool, storage trunk"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,8.375426769,"chair, sofa, couch, bed, table, desk, dresser, bookshelf, armchair, coffee table, dining table, dining chair, nightstand, wardrobe, cabinet, stool, bench, ottoman, credenza, TV stand, wardrobe, porch swing, kitchen island, sideboard, console table"
+deepseek-r1-0528,"
+You are a participant in an experiment.
+The purpose of this experiment is to find out what items or objects belong to various categories or classes.
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,39.67214489,"chair, sofa, table, bed, desk, wardrobe, cabinet, stool, bench, ottoman, bookshelf, nightstand, dresser, recliner, armchair, dining table, coffee table, end table, loveseat, futon, bunk bed, cot, armoire, chest of drawers, vanity, filing cabinet, console table, footstool, chaise lounge, hall tree, shelving unit, bar stool, sectional sofa, sleeper sofa, daybed, trunk, buffet cabinet, coat rack, plant stand"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,16.83904791,"sofa, chair, table, bed, desk, cabinet, drawer, bookshelf, wardrobe, dresser, ottoman, stool, bench, chest of drawers, credenza, dining table, coffee table, nightstand, chaise longue, armoire, headboard"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,16.24606323,"chair, sofa, bed, table, desk, cabinet, wardrobe, bookshelf, dresser, stool, bench, ottoman, couch, armoire, end table, coffee table, dining table, nightstand, recliner, loveseat, chaise lounge, futon, credenza, sideboard, chest, bookcase, file cabinet, coat rack, footstool, console table, tv stand, daybed, filing cabinet, hall tree, bureau, buffet, bunk bed, bed frame, shelf, plant stand"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,13.59771466,"chair, table, sofa, bed, desk, wardrobe, dresser, cabinet, bookshelf, stool, ottoman, bench, couch, futon, mattress, bed frame, nightstand, coffee table, dining table, recliner, armchair, file cabinet, shelving unit, vanity, china cabinet, accent table, console table, chaise longue, headboard, folding chair, bar stool, rocking chair, screen, credenza, trunk, sideboard, TV stand, chest of drawers, coat rack, hall tree"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,11.33187437,"sofa, chair, table, desk, bed, mattress, wardrobe, dresser, cabinet, bookshelf, dresser, armoire, nightstand, coffee table, dining table, end table, ottoman, bench, stool, loveseat, chaise longue, futon, recliner, headboard, footboard, chest of drawers, entertainment center, console table, sideboard, coffee table, armchair, patio furniture, coat rack, barstool"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,12.20971322,"sofa, chair, table, bed, desk, dresser, bookshelf, nightstand, couch, wardrobe, cabinet, coffee table, dining table, armchair, ottoman, recliner, loveseat, bench, stool, entertainment center, console table, futon, filing cabinet, bed frame, sideboard, credenza, bookcase, chaise lounge, shelf, patio furniture, bureau"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,12.57785058,"chair, sofa, table, desk, bed, dresser, wardrobe, bookshelf, cabinet, bench, nightstand, stool, ottoman, coffee table, headboard, chest, recliner, sofa bed, sideboard, dining table, bar stool, armchair, loveseat, credenza, trunk"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.5921979,"sofa, chair, bed, table, desk, cabinet, wardrobe, dresser, cupboard, bench, stool, ottoman, armchair, loveseat, couch, nightstand, bookcase, bureau, filing cabinet, entertainment center, dining table, coffee table, end table, recliner, chaise longue, sideboard, credenza, shelving unit, drawer, cabinet, chest, futon, console table, bookshelf, cabinet, wardrobe, armoire, secretary desk, vanity, drafting table, lamp table, tray table, tv stand, coat rack, hat stand, towel rack, water closet, plant stand"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.29015613,"chair, sofa, table, bed, desk, dresser, cabinet, bookshelf, armoire, wardrobe, stool, bench, ottoman, coffee table, nightstand, loveseat, recliner, futon, chaise lounge, footstool, headboard, credenza, bookcase, console table, end table, dining table, wardrobe, secretary, escritoire, kitchen island"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,14.51335049,"sofa, chair, table, bed, dresser, wardrobe, desk, bench, stool, ottoman, recliner, cabinet, bookshelf, nightstand, coffee table, dining table, armchair, mattress, shelf, footrest, headboard, wardrobe cabinet, chaise lounge, console table, office chair, futon, king bed, queen bed, twin bed, bunk bed, wardrobe armoire, daybed, barstool, kitchen chair, dining chair, patio chair, patio table, picnic table, bean bag chair"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,21.81714582,"chair, sofa, table, bed, desk, dresser, wardrobe, bookshelf, bench, stool, cabinet, footstool, chaise lounge, nightstand, ottoman, cupboard, drawing board, futon, armoire, rocking chair, highchair, folding chair, coffee table, end table, console table, dining table, wardrobe, shelving unit, credenza, buffet, sofa bed, child bed, stool step, footrest, screen, lampstand, barstool, television stand, plant stand, letter tray, filing cabinet, bed frame, daybed, trunk, chest, hope chest, bookcase, coat rack, hat stand, mirror, fireplace mantel, sofa chair, recliner, shelf, wardrobe closet, wall unit, sideboard, wine rack, umbrella stand, ottoman stool, bedhead, dressing table, vanity, stool with back, armchair"

@@ -1,0 +1,1202 @@
+model,prompt,prompt_id,runtime,output
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,1.552443027,"sofa,bed,table,chair,desk,dresser,couch,wardrobe,bookshelf,lamp,dining table,coffee table"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,1.713712215,"sofa,bed,table,chair,desk,couch,dining table,wardrobe,bookshelf,armchair,coffee table,rocking chair"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,2.921506166,"sofa,chair,table,bed,dresser,wardrobe,desk,nightstand,couch,coffee table,bookshelf,dining table,armchair,rocking chair,dining set,entertainment center,bunk bed,chaise lounge,patio furniture,rug"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.137996197,"sofa,chair,table,bed,desk,dresser,cabinet,shelf,couch,dining table,armchair,rocking chair,coffee table,bookshelf,wardrobe,nightstand,rug,chaise lounge,entertainment center,bunk bed,patio furniture,rocking horse"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.851449728,"sofa,chair,table,bed,desk,dresser,couch,wardrobe,bookshelf,dining table,coffee table,armchair,rocking chair,chaise lounge,dining set,patio furniture,bunk bed,nightstand,sofa bed,entertainment center,dining chair,loveseat,dining table set,media console,kitchen table"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.409427166,"chair,table,bed,sofa,desk,lamp,cabinet,dresser,rug,shelf,wardrobe,armchair,coffee table,bookcase,side table,stool,hammock,ottoman,chest,nightstand"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.400610924,"chair,table,bed,sofa,desk,dresser,lamp,rug,bookshelf,closet,armchair,coffee table,side table,chest,stool,cabinet,hammock,wardrobe,nightstand,ottoman"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.86750412,"chair,table,bed,sofa,desk,wardrobe,lamp,cabinet,shelf,rug,dresser,chair,coffee table,bookcase,stool,couch,nightstand,ottoman,end table,recliner,dining table,armchair"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.489152431,"chair,table,bed,sofa,desk,lamp,cabinet,wardrobe,shelf,drawer,rug,couch,armchair,sideboard,ottoman,bookcase,chest,stool,dresser,coffee table,end table"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.574220419,"chair,table,bed,sofa,desk,dresser,lamp,bookshelf,rug,couch,coffee table,nightstand,wardrobe,armchair,ottoman,side table,chest of drawer,stool,shelf,hammock"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.938483715,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,wardrobe,ottoman,stool,nightstand,coffee table,armchair,love seat,headboard,footboard,bench,chest of drawer,entertainment center,tv stand,lamp,rug,mirror,shelf,hutch,console table,recliner"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.921740532,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,wardrobe,ottoman,stool,lamp,rug,coffee table,nightstand,armoire,couch,loveseat,headboard,footboard,entertainment center,sideboard,buffet,shelf,bench,highboy,lowboy,chest of drawer"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.918627501,"chair,table,bed,sofa,cabinet,desk,dresser,shelf,bookcase,stool,ottoman,wardrobe,nightstand,coffee table,armchair,closet,bench,hutch,recliner,entertainment center,headboard,footboard,lamp,rug,rug,mirror,hammock,love seat,chaise lounge"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.929475069,"chair,table,bed,sofa,cabinet,dresser,bookshelf,desk,wardrobe,ottoman,stool,nightstand,coffee table,armchair,love seat,headboard,footboard,bench,hutch,armoire,chest of drawer,entertainment center,tv stand,lamp,rug,mirror,shelf,closet"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.936173916,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,ottoman,lamp,wardrobe,nightstand,coffee table,armchair,recliner,stool,bench,buffet,hutch,entertainment center,tv stand,shelf,rug,rug,mirror,headboard,footboard,chest of drawer,loveseat"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.3197279,"chair,table,sofa,bed,dresser,desk,lamp,shelf,cabinet,bench,stool,ottoman,armoire,nightstand,recliner,vanity,bookcase,coffee table,side table,dining table,armchair,rocking chair,loveseat,sectional,chaise lounge,futon,bean bag"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.33390331,"chair,table,sofa,bed,dresser,cabinet,desk,shelf,lamp,rug,ottoman,bench,wardrobe,recliner,chaise lounge,coffee table,dining table,nightstand,bookcase,armchair,sectional,vanity,chest,drawer,sideboard,console,mirror,stool,headboard"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.33064651,"chair,table,sofa,bed,dresser,desk,lamp,bookshelf,cabinet,bench,wardrobe,ottoman,recliner,coffee table,side table,nightstand,armoire,chaise lounge,dining table,vanity,stool,loveseat,hammock,futon,rocking chair,ladder,mirror,storage unit"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.34020185,"chair,table,sofa,bed,dresser,desk,cabinet,shelf,bench,stool,ottoman,armoire,nightstand,recliner,hammock,chaise lounge,vanity,bookcase,coffee table,dining table,armchair,rocking chair,loveseat,futon,mattres,headboard,footstool"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.31949162,"chair,table,sofa,bed,dresser,desk,lamp,shelf,cabinet,bench,ottoman,recliner,bookcase,armoire,nightstand,vanity,armchair,coffee table,side table,dining table,bar stool,rocking chair,chaise lounge,hammock,bean bag,loveseat,sectional"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.257392883,"bed,chair,table,desk,sofa,bookshelf,cabinet,dresser,wardrobe,nightstand,lamp,mirror,closet,ottoman,recliner,armchair,coffee table,dining table,bookcase,shelf,bench,side table,dresser,chest of drawer,nightstand,loveseat,divan,stool"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.25508213,"bed,chair,table,desk,shelf,cabinet,dresser,nightstand,sofa,armchair,ottoman,bookcase,tv stand,bookshelf,coffee table,end table,night lamp,lamp,stool,bench,wardrobe,closet,dresser,side table,recliner,loveseat,futon,headboard"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.252798319,"chair,table,sofa,bed,desk,bookshelf,cabinet,dresser,nightstand,lamp,mirror,wardrobe,coffee table,bookcase,ottoman,armchair,recliner,dining table,side table,dresser,tv stand,shelf,stool,bench,console table,storage unit,filing cabinet,headboard"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.246484518,"chair,table,sofa,bed,desk,bookshelf,dresser,nightstand,cabinet,wardrobe,mirror,lamp,rug,pillow,mattres,headboard,nightlight,dresser,coffee table,end table,ottoman,recliner,bench,shelf,console,side table,bookcase,armchair,dining table"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.257821798,"sofa,chair,table,desk,bed,dresser,bookshelf,nightstand,wardrobe,cabinet,shelf,stool,bench,ottoman,armchair,coffee table,dining table,tv stand,bookcase,closet,headboard,night lamp,side table,end table,loveseat,recliner,rocking chair,dresser"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.95048642,"sofa,chair,table,bed,desk,dresser,bookshelf,wardrobe,nightstand,coffee table,recliner,loveseat,ottoman,tv stand,computer desk,file cabinet,stool,bench,headboard,footboard,armoire,vanity,mirror,chaise lounge,daybed,futon,mattres"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.91987586,"chair,table,bed,desk,couch,wardrobe,dresser,bookshelf,nightstand,stool,loveseat,recliner,coffee table,tv stand,end table,lamp,ottoman,chaise lounge,armoire,vanity,hutch,buffet,sideboard,bench,bar stool,file cabinet,bookcase,secretary"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,9.316859484,"sofa,chair,table,bed,desk,dresser,bookshelf,wardrobe,nightstand,stool,loveseat,recliner,coffee table,end table,lamp,ottoman,chaise lounge,sectional,armoire,vanity,mirror,tv stand,entertainment center"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.90010858,"chair,table,bed,desk,sofa,dresser,bookshelf,nightstand,wardrobe,stool,ottoman,loveseat,coffee table,tv stand,recliner,chaise lounge,sectional,armoire,vanity,mirror,console table,end table,futon,bunk bed,crib,high chair,rocking chair"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.94894719,"table,chair,bed,sofa,desk,dresser,bookshelf,wardrobe,nightstand,coffee table,tv stand,ottoman,stool,loveseat,recliner,sectional,armoire,vanity,mirror,chaise lounge,futon,daybed,hammock,headboard,footboard,bench,bar stool,console"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,15.79865408,"chair,table,sofa,bed,desk,dresser,couch,armchair,stool,bench,cabinet,wardrobe,bookcase,bookshelf,nightstand,coffee table,dining table,recliner,ottoman,chest of drawer,cupboard,loveseat,futon,bunk bed,crib,cradle,highchair,vanity,chaise lounge,sideboard,buffet,credenza,hutch,entertainment center,filing cabinet,coat rack,rocking chair,bar stool,patio table,lawn chair,beanbag,daybed,headboard,footboard,mattres,sectional,divan,settee,armoire,bureau,secretary,console table,end table,drafting table,podium,lectern,pew,hammock,cot,murphy bed,waterbed,canopy bed,trundle bed,bassinet,changing table,footstool,pouf,room divider,folding chair,folding table,card table,picnic table,park bench,throne,trestle table,nesting table,hall tree,umbrella stand,magazine rack,baker's rack,wine rack,display case,curio cabinet,china cabinet,hope chest,toy box,media console,tv stand,gaming chair,office chair,swivel chair,director's chair,deck chair,adirondack chair,davenport,chesterfield"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,14.6168685,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,armchair,ottoman,coffee table,nightstand,cabinet,couch,bench,stool,recliner,dining table,dining chair,sideboard,buffet,hutch,china cabinet,console table,end table,loveseat,chaise lounge,futon,bunk bed,crib,bassinet,changing table,high chair,rocking chair,glider,bar stool,kitchen island,chest of drawer,armoire,vanity,office chair,filing cabinet,bookcase,shelving unit,room divider,coat rack,shoe rack,hall tree,umbrella stand,patio chair,garden bench,hammock,porch swing,sun lounger,folding chair,folding table,drafting table,secretary desk,rolltop desk,standing desk,murphy bed,daybed,trundle bed,waterbed,canopy bed,headboard,footboard,mattres,box spring,entertainment center,tv stand,media console,credenza,pew,altar,lectern,podium,throne,beanbag chair,gaming chair,massage chair,footstool,pouf,nesting table,magazine rack,telephone table,display case,locker,trunk,hope chest,blanket box,wall unit,sectional,davenport,settee,divan,chesterfield,bureau,commode,tallboy,lowboy,bar cart,step stool,easel,partition,screen,sideboard,cupboard,workstation,lectern,pedestal,ottoman"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,16.24209332,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,couch,armchair,coffee table,nightstand,ottoman,cabinet,dining table,cupboard,stool,bench,recliner,chest of drawer,futon,bunk bed,vanity,sideboard,entertainment center,loveseat,filing cabinet,credenza,hutch,crib,high chair,rocking chair,chaise lounge,footstool,headboard,mattres,buffet,armoire,bookcase,sectional,end table,console table,coat rack,shoe rack,drafting table,bar stool,patio chair,deck chair,hammock,porch swing,glider,daybed,trundle bed,waterbed,murphy bed,secretary desk,roll-top desk,standing desk,bean bag,pouf,settee,divan,davenport,chesterfield,hall tree,umbrella stand,folding table,folding chair,office chair,gaming chair,wingback chair,club chair,accent chair,wicker chair,garden bench,picnic table,kitchen island,pantry,china cabinet,display case,room divider,screen,pedestal,podium,lectern,pew,kneeler,altar,throne,canopy bed,four-poster bed,cot,bassinet,cradle,changing table,playpen,chest,trunk,blanket box,bureau,chiffonier,tallboy,lowboy,whatnot,nest of table,telephone table,magazine rack,easel,plant stand"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,12.61259556,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,armchair,ottoman,coffee table,nightstand,couch,recliner,bench,stool,cabinet,cupboard,chest of drawer,futon,bunk bed,crib,high chair,dining table,dining chair,sideboard,buffet,credenza,vanity,chaise lounge,loveseat,rocking chair,bar stool,filing cabinet,patio table,hammock,coat rack,headboard,settee,divan,entertainment center,tv stand,china cabinet,hutch,secretary desk,bean bag,glider,armoire,console table,end table,daybed,picnic table,folding chair,shelving unit,room divider,footstool,mattres,canopy bed,murphy bed,trundle bed,drafting table,podium,lectern,pew,altar,reception desk,workstation,cubicle,umbrella stand,grandfather clock,magazine rack,baker's rack,wine rack,hope chest,toy box,easel,vanity table,gaming chair,lawn chair,deck chair,adirondack chair,park bench,bleacher,bar cart,tea cart,serving cart,nesting table,pedestal,plant stand,hall tree,shoe rack,coat stand"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,9.759156466,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,couch,armchair,coffee table,nightstand,ottoman,cabinet,stool,bench,cupboard,recliner,loveseat,futon,dining table,vanity,chest of drawer,bunk bed,crib,cot,hammock,sideboard,hutch,credenza,filing cabinet,chaise lounge,divan,settee,headboard,mattres,box spring,patio chair,bar stool,kitchen island,entertainment center,bookcase,coat rack,shoe rack,armoire,buffet,console table,end table,drafting table,rocking chair,glider,high chair"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,12.57785058,"chair,sofa,table,desk,bed,dresser,wardrobe,bookshelf,cabinet,bench,nightstand,stool,ottoman,coffee table,headboard,chest,recliner,sofa bed,sideboard,dining table,bar stool,armchair,loveseat,credenza,trunk"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.5921979,"sofa,chair,bed,table,desk,cabinet,wardrobe,dresser,cupboard,bench,stool,ottoman,armchair,loveseat,couch,nightstand,bookcase,bureau,filing cabinet,entertainment center,dining table,coffee table,end table,recliner,chaise longue,sideboard,credenza,shelving unit,drawer,cabinet,chest,futon,console table,bookshelf,cabinet,wardrobe,armoire,secretary desk,vanity,drafting table,lamp table,tray table,tv stand,coat rack,hat stand,towel rack,water closet,plant stand"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.29015613,"chair,sofa,table,bed,desk,dresser,cabinet,bookshelf,armoire,wardrobe,stool,bench,ottoman,coffee table,nightstand,loveseat,recliner,futon,chaise lounge,footstool,headboard,credenza,bookcase,console table,end table,dining table,wardrobe,secretary,escritoire,kitchen island"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,14.51335049,"sofa,chair,table,bed,dresser,wardrobe,desk,bench,stool,ottoman,recliner,cabinet,bookshelf,nightstand,coffee table,dining table,armchair,mattres,shelf,footrest,headboard,wardrobe cabinet,chaise lounge,console table,office chair,futon,king bed,queen bed,twin bed,bunk bed,wardrobe armoire,daybed,barstool,kitchen chair,dining chair,patio chair,patio table,picnic table,bean bag"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,21.81714582,"chair,sofa,table,bed,desk,dresser,wardrobe,bookshelf,bench,stool,cabinet,footstool,chaise lounge,nightstand,ottoman,cupboard,drawing board,futon,armoire,rocking chair,highchair,folding chair,coffee table,end table,console table,dining table,wardrobe,shelving unit,credenza,buffet,sofa bed,child bed,stool step,footrest,screen,lampstand,barstool,television stand,plant stand,letter tray,filing cabinet,bed frame,daybed,trunk,chest,hope chest,bookcase,coat rack,hat stand,mirror,fireplace mantel,sofa chair,recliner,shelf,wardrobe closet,wall unit,sideboard,wine rack,umbrella stand,ottoman stool,bedhead,dressing table,vanity,stool with back,armchair"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,1.601029634,"sofa,bed,table,chair,desk,dresser,cabinet,wardrobe,bookshelf,lamp"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,2.28045392,"sofa,bed,table,chair,desk,couch,dining table,bookshelf,armchair,rocking chair,wardrobe,dresser,coffee table,sofa bed,entertainment center,closet"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.538814068,"sofa,bed,table,chair,desk,couch,wardrobe,dresser,bookshelf,dining table,armchair,coffee table,rocking chair,dining set,bunk bed,entertainment center,nightstand,rug,lamp,chaise lounge,patio furniture,rocking horse,dining chair,credenza"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,1.282942295,"sofa,bed,table,chair,desk,dresser,couch,wardrobe,nightstand,coffee table"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.098472118,"sofa,chair,table,bed,desk,dresser,cupboard,shelf,armchair,coffee table,dining table,wardrobe,bookshelf,sofa bed,lounge chair,chaise lounge,dining set,patio furniture,bunk bed,entertainment center"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.362762451,"chair,table,bed,sofa,desk,wardrobe,bookshelf,lamp,rug,cabinet,dresser,coffee table,side table,stool,couch,nightstand,chest,hammock,shelf,armchair"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.317703247,"chair,table,bed,sofa,desk,wardrobe,cabinet,shelf,lamp,rug,couch,armchair,sideboard,coffee table,bookcase,dresser,stool,hammock,chest,nightstand"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.576226234,"chair,table,bed,sofa,desk,wardrobe,lamp,shelf,cabinet,dresser,rug,stool,armchair,coffee table,side table,bookcase,chest,ottoman,hammock,couch,nightstand"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.297824144,"chair,table,bed,sofa,desk,dresser,lamp,bookshelf,rug,cabinet,wardrobe,stool,coffee table,side table,nightstand,couch,hammock,shelf,chest,ottoman"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.394075155,"chair,table,bed,sofa,desk,lamp,wardrobe,bookshelf,dresser,rug,couch,armchair,sideboard,coffee table,nightstand,chest,ottoman,stool,cabinet,hammock"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.891086578,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,wardrobe,ottoman,stool,lamp,mirror,nightstand,coffee table,armchair,loveseat,headboard,footboard,entertainment center,chest of drawer,tv stand,side table,highboy,lowboy,bench,shelf,hutch"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,7.767860651,"chair,table,bed,sofa,dresser,cabinet,bookshelf,desk,ottoman,lamp,wardrobe,nightstand,coffee table,rug,stool,closet,shelf,armoire,chest of drawer,entertainment center,sideboard,headboard,footboard,bench,hammock"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.874565363,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,wardrobe,stool,ottoman,coffee table,nightstand,armoire,recliner,love seat,chest of drawer,tv stand,end table,headboard,footboard,lamp,rug,mirror,bench,patio set,dining table,buffet"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.871497154,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,wardrobe,ottoman,stool,lamp,rug,mirror,nightstand,coffee table,entertainment center,headboard,footboard,armoire,chest of drawer,love seat,recliner,patio furniture,bench,high chair,baby crib,toy box"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.870239496,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,ottoman,stool,wardrobe,nightstand,coffee table,side table,armoire,couch,loveseat,headboard,footboard,entertainment center,shelf,bench,chest of drawer,vanity,mirror,hammock,recliner,high chair"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.61181211,"chair,table,sofa,bed,desk,dresser,cabinet,shelf,bookcase,bench,armchair,ottoman,coffee table,nightstand,wardrobe,recliner,chaise lounge,dining table,end table,sectional,rocking chair,vanity,mirror,lamp,rug,curtain rod,storage box,tv stand"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.27650976,"chair,table,sofa,bed,dresser,desk,lamp,shelf,cabinet,stool,bench,ottoman,armoire,nightstand,vanity,recliner,hammock,rocking chair,bookcase,coffee table,dining table,loveseat,futon,couch,sideboard,barstool,armchair,trest"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.26920962,"chair,table,sofa,bed,dresser,desk,cabinet,shelf,lamp,rug,ottoman,bench,wardrobe,stool,chaise lounge,recliner,bookcase,armoire,nightstand,vanity,mirror,headboard,footstool,coffee table,dining table,side table,bar stool,loveseat"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.2570529,"chair,table,sofa,bed,dresser,cabinet,shelf,desk,lamp,rug,ottoman,bench,stool,wardrobe,recliner,nightstand,bookcase,chaise lounge,armchair,coffee table,dining table,sectional,vanity,armoire,futon,headboard,footstool,console table"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.26602769,"chair,table,sofa,bed,dresser,desk,lamp,shelf,cabinet,bench,stool,ottoman,armoire,nightstand,recliner,vanity,bookcase,wardrobe,couch,armchair,coffee table,side table,dining table,headboard,footstool,chaise lounge,rocking chair,bean bag"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.83531189,"chair,table,bed,sofa,desk,bookshelf,dresser,nightstand,lamp,cabinet,wardrobe,mirror,rug,ottoman,bench,stool,piano,closet,shelf,cabinet,coffee table,dining table,night lamp,lampshade,bookcase,side table,end table,tv stand,cabinet,bookrest"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.269358635,"chair,table,sofa,bed,desk,bookshelf,dresser,nightstand,wardrobe,cabinet,shelf,bench,ottoman,stool,armchair,recliner,lamp,mirror,rug,carpet,mattres,headboard,footboard,nightlight,dresser,coffee table,end table,bookcase,side table,television"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.276510239,"dresser,chair,table,sofa,bed,desk,bookshelf,cabinet,nightstand,lamp,mirror,tv stand,coffee table,ottoman,recliner,bookcase,wardrobe,shelf,stool,bench,headboard,night lamp,side table,dining table,tv cabinet,fireplace,television,piano,grandfather clock"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.285145521,"sofa,chair,table,desk,bookshelf,cabinet,dresser,bed,nightstand,wardrobe,shelf,bench,stool,ottoman,lamp,mirror,rug,carpet,cushion,pillow,mattres,headboard,footboard,nightlight,dresser,coffee table,end table,side table,tv stand,tv cabinet"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.275265455,"chair,table,desk,bed,sofa,bookshelf,dresser,nightstand,lamp,mirror,cabinet,wardrobe,television,computer,recliner,ottoman,coffee table,shelf,side table,dresser,chest of drawer,bench,stool,armchair,loveseat,fireplace,rug,curtain,blind,door,window"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.44505882,"chair,table,bed,sofa,desk,dresser,bookshelf,wardrobe,cabinet,stool,nightstand,tv stand,coffee table,loveseat,recliner,ottoman,bench,chaise lounge,armoire,vanity,mirror,headboard,footboard,wardrobe closet,shelf,chest of drawer,end table"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.82377696,"sofa,chair,table,bed,desk,dresser,bookshelf,nightstand,wardrobe,cabinet,stool,ottoman,loveseat,recliner,coffee table,end table,tv stand,headboard,footboard,armoire,vanity,mirror,bench,chaise lounge,sectional,daybed,futon,mattres"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,9.81941247,"chair,table,bed,desk,sofa,dresser,bookshelf,nightstand,wardrobe,stool,loveseat,recliner,ottoman,coffee table,tv stand,end table,headboard,footboard,armoire,chaise longue,rocking chair,glider,bench,vanity"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.809856415,"chair,table,desk,bed,couch,sofa,bookshelf,wardrobe,dresser,nightstand,coffee table,tv stand,stool,bench,loveseat,recliner,ottoman,chaise longue,armoire,vanity,mirror,chest of drawer"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.523818016,"chair,table,bed,desk,sofa,wardrobe,bookshelf,dresser,nightstand,stool,couch,loveseat,ottoman,recliner,coffee table,tv stand,headboard,footboard,armoire,vanity,chaise lounge"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,13.29539347,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,couch,stool,nightstand,armchair,dining table,coffee table,ottoman,loveseat,bench,cabinet,shelf,futon,recliner,credenza,buffet,hutch,vanity,chest of drawer,mattres,headboard,cupboard,sideboard,chaise lounge,rocking chair,barstool,divan,settee,crib,bunk bed,cot,hammock,office chair,filing cabinet,bookcase,entertainment center,tv stand,end table,console table,highchair,beanbag,daybed,trundle bed,armoire,pantry,bureau,sectional,sleeper sofa,picnic table,drafting table,secretary desk,coat rack,umbrella stand,murphy bed,waterbed,canopy bed,four-poster bed,kitchen island,bar cart,vitrine,commode,davenport,chesterfield,glider,adirondack chair,garden bench,pew,pulpit,lectern,folding chair,folding table,nesting table,valet stand,hope chest,grandfather clock,piano bench,vanity stool,footstool,wingback chair,club chair,slipper chair,windsor chair,ladder back chair,gaming chair,standing desk,corner unit,wall unit,room divider,screen,pedestal,plinth,wine rack,baker's rack,spice rack,magazine rack,quilt rack,towel rack,hall tree,shoe rack,storage bench,mudroom bench,changing table,bassinet,cradle,playpen,toddler bed,loft bed,tatami mat,zabuton,kotatsu,low table,planter,trelli,gazebo,pergola,swing,porch swing,glider bench,bistro table,bistro chair,director's chair,camp chair,beach chair,lawn chair,deck chair,sun lounger"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,13.85970974,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,nightstand,ottoman,stool,bench,cabinet,armchair,recliner,couch,futon,loveseat,coffee table,end table,console table,vanity,chest of drawer,cupboard,buffet,sideboard,hutch,rocking chair,chaise lounge,bean bag,bunk bed,crib,cradle,high chair,filing cabinet,coat rack,headboard,patio chair,picnic table,hammock,deck chair,folding chair,swivel chair,office chair,bar stool,credenza,secretary desk,drafting table,computer desk,murphy bed,daybed,sofa bed,sectional,settee,wingback chair,gaming chair,dining chair,kitchen island,bar cart,wine rack,bookcase,entertainment center,tv stand,china cabinet,armoire,hope chest,toy box,trunk,footstool,pouf,room divider,hall tree,valet stand,plant stand,nesting table,tray table,card table,folding table,workbench"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,17.05313993,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,armchair,couch,ottoman,nightstand,cabinet,stool,bench,recliner,loveseat,coffee table,dining table,cupboard,chest of drawer,futon,bunk bed,crib,cradle,hammock,chaise lounge,sideboard,buffet,credenza,vanity,headboard,mattres,entertainment center,bookcase,filing cabinet,rocking chair,barstool,patio table,lawn chair,daybed,cot,armoire,hutch,sectional,footstool,beanbag,pouf,settee,divan,davenport,coat rack,room divider,console table,end table,secretary desk,standing desk,pew,lectern,podium,highchair,bassinet,changing table,murphy bed,trundle bed,canopy bed,waterbed,drafting table,card table,picnic table,deck chair,sun lounger,porch swing,glider,magazine rack,baker's rack,pantry,display case,shelving unit,workstation,cubicle,bureau,ottoman,trestle table,accent chair,folding chair,folding table,gaming chair,computer desk,media console,hall tree,shoe rack,umbrella stand,plant stand,telephone table,tea cart,bar cart,kitchen island,medicine cabinet,jewelry armoire,cheval mirror,grandfather clock,quilt rack,valet stand,blanket chest,hope chest,cedar chest,toy box,sewing table,vanity bench,piano bench,step stool,ladder back chair,windsor chair,wingback chair,club chair,slipper chair,barrel chair,morris chair,egg chair,ball chair,womb chair,phantom chair,directors chair,adirondack chair,bistro table,pub table,drop-leaf table,gateleg table,tilt-top table,drum table,nesting table,tray table,commode,chiffonier,tallboy,lowboy,breakfront,secretary,escritoire,prie-dieu,confessional,altar,pulpit,choir stall,throne,canopy,four-poster bed,sleigh bed,platform bed,panel bed,storage bed,loft bed,air mattres,camp bed,sleeping bag,tatami,zabuton,kotatsu,tansu,byobu,screen,partition,divider"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,19.15883827,"chair,table,bed,desk,sofa,couch,armchair,ottoman,coffee table,end table,dining table,kitchen table,stool,barstool,bench,pew,recliner,loveseat,sectional,chaise lounge,futon,daybed,bunk bed,trundle bed,crib,cradle,bassinet,changing table,high chair,dresser,chest of drawer,wardrobe,armoire,nightstand,vanity,headboard,footboard,mattres,box spring,bookshelf,bookcase,shelving unit,cabinet,china cabinet,hutch,buffet,sideboard,credenza,entertainment center,tv stand,media console,filing cabinet,office chair,gaming chair,drafting table,standing desk,secretary desk,roll-top desk,coat rack,hat rack,shoe rack,umbrella stand,hall tree,console table,rocking chair,glider,porch swing,hammock,patio table,deck chair,adirondack chair,sun lounger,garden bench,picnic table,bean bag chair,room divider,folding screen,podium,lectern,altar,kneeler,massage table,barber chair,hope chest,toy box,baker's rack,wine rack,magazine rack,footstool,hassock,settee,divan,davenport,murphy bed,waterbed,canopy bed,four-poster bed,commode,washstand,grandfather clock,mantelpiece"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,14.41006899,"chair,table,sofa,desk,bed,bookshelf,cabinet,dresser,wardrobe,stool,bench,ottoman,recliner,nightstand,armchair,loveseat,futon,crib,cot,credenza,sideboard,hutch,buffet,vanity,chaise lounge,divan,settee,armoire,chest,cupboard,shelving unit,filing cabinet,coffee table,end table,dining table,kitchen island,barstool,beanbag,rocking chair,bunk bed,canopy bed,daybed,trundle bed,headboard,footboard,mattres,highchair,bassinet,cradle,changing table,coat rack,room divider,entertainment center,media console,secretary desk,standing desk,drafting table,vanity table,patio chair,picnic table,garden bench,porch swing,hammock,davenport,chesterfield,sectional,sleeper sofa,wall unit,display case,curio cabinet,pantry,locker,trunk,footstool,pouf,vanity stool,piano bench,pew,lectern,podium,bureau,commode,chiffonnier,secretary,workstation,cubicle,console"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,14.76908827,"sofa,chair,table,desk,bed,bench,stool,cabinet,dresser,wardrobe,bookshelf,coffee table,end table,nightstand,dining table,recliner,ottoman,shelf,chest,couch,love seat,armchair,futon,footstool,chaise lounge,armoire,vanity,entertainment unit"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,23.35056257,"bed,sofa,chair,table,desk,wardrobe,dresser,bookshelf,cabinet,bench,nightstand,couch,ottoman,stool,recliner,loveseat,coffee table,dining table,armchair,shelf,chest,futon,bunk bed,mattres,divan,bar stool,rocking chair,hutch,wardrobe,footstool,credenza,console table,vanity"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,26.26942062,"chair,sofa,bed,table,desk,dresser,wardrobe,bookshelf,cabinet,nightstand,coffee table,ottoman,recliner,bench,stool,bar stool,armchair,chaise longue,loveseat,console table,end table,sideboard,buffet,vanity,television stand,dining table,filing cabinet,chest of drawer,hope chest,bookcase,kid's bed,futon,daybed,bunk bed,murphy bed,headboard,wardrobe,folding chair,floor lamp,coat rack,plant stand,bed frame,kitchen island (movable),sofa bed,shelving unit,hallway tree,bench seat,drafting table,reclining sofa,lounge chair,footstool,secretary desk,side chair,thin table,bean bag chair,crib,changing table,rocking chair,high chair,storage bench,credenza,armoire,vanity stool,piano stool,drafting stool,bar table,patio set,garden bench,hutch,playpen,playard,piano bench,massage table,tool bench,workbench,leaning ladder,trolley cart,hope chest,throne"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,15.71497083,"sofa,chair,table,bed,desk,stool,bench,cupboard,wardrobe,dresser,bookcase,cabinet,ottoman,couch,shelf,filing cabinet,drawer,chest,coffee table,side table,dining table,wardrobe,chaise longue,cabinet,shelving unit,dresser, mirror,crib,cot,recliner,loveseat,futon,headboard,footboard,bunk bed,armoire,credenza,console table,bureau,bookstand,daybed"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,14.74492049,"chair,sofa,bed,table,desk,wardrobe,cabinet,bookshelf,shelf,cupboard,dresser,nightstand,stool,bench,ottoman,chaise lounge,coffee table,dining table,end table,sideboard,credenza,filing cabinet,futon,loveseat,armchair,rocker,recliner,vanity,chest,armoire,buffet,console table,bench seat,hall tree,bed frame,headboard,footstool,bar stool"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,1.961697102,"sofa,bed,table,chair,desk,dresser,couch,nightstand,bookshelf,wardrobe,dining table,coffee table"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,2.701213598,"sofa,bed,table,chair,desk,couch,dresser,wardrobe,bookshelf,lamp,dining table,coffee table,armchair,rocking chair,ottoman,chaise lounge,credenza,nightstand,rug"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,1.21688199,"sofa,chair,table,bed,desk,dresser,couch,lamp,wardrobe,bookshelf"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.402364492,"sofa,chair,table,bed,desk,dresser,wardrobe,couch,lamp,dining table,bookshelf,armchair,coffee table,rug,chaise lounge,rocking chair,entertainment center,patio furniture,ottoman,dining chair,nightstand,rocking horse,dining table set"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,2.038080692,"sofa,chair,table,bed,dresser,desk,lamp,bookshelf,couch,dining table,wardrobe,coffee table,rug,curtain rail,chandelier"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.530181646,"chair,table,bed,sofa,desk,lamp,cabinet,wardrobe,shelf,rug,dresser,chair,coffee table,side table,bookcase,stool,hammock,chest,ottoman,vanity,armoire"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.419526815,"chair,table,bed,sofa,desk,wardrobe,lamp,bookshelf,rug,cabinet,drawer,couch,coffee table,nightstand,armchair,chest,ottoman,sideboard,hammock,stool"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.321593761,"chair,table,bed,sofa,desk,wardrobe,cabinet,shelf,lamp,rug,couch,armchair,sideboard,coffee table,bookcase,chest,ottoman,stool,dresser,nightstand"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.238143682,"chair,table,bed,sofa,desk,wardrobe,shelf,lamp,rug,cabinet,drawer,mirror,couch,armchair,sideboard,coffee table,bookcase,chest,stool,ottoman"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.428467751,"chair,table,bed,sofa,desk,wardrobe,lamp,bookshelf,dresser,rug,couch,coffee table,nightstand,stool,armchair,chest,sideboard,hammock,cabinet,ottoman"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.923320532,"chair,table,bed,sofa,dresser,cabinet,bookshelf,desk,wardrobe,ottoman,stool,lamp,rug,mirror,nightstand,coffee table,armchair,chest of drawer,entertainment center,closet,shelf,bench,headboard,footboard,cabinet,buffet,sideboard,loveseat,recliner"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.897574186,"chair,table,bed,sofa,cabinet,desk,shelf,dresser,wardrobe,stool,ottoman,bookcase,coffee table,side table,armchair,loveseat,couch,headboard,nightstand,entertainment center,closet,armoire,buffet,console,bench,hammock,recliner,high chair,rocking chair"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.908444643,"chair,table,bed,sofa,dresser,cabinet,bookshelf,desk,wardrobe,stool,ottoman,coffee table,nightstand,armoire,chest of drawer,loveseat,recliner,bench,entertainment center,headboard,footboard,closet,vanity,mirror,lamp,rug,rug,chaise lounge"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.911576748,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,wardrobe,stool,ottoman,nightstand,coffee table,armchair,loveseat,chest of drawer,tv stand,bench,lamp,rug,mirror,shelf,cabinet,entertainment center,headboard,footboard,canopy bed,rocking chair"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.925005436,"chair,table,bed,sofa,dresser,cabinet,bookshelf,desk,wardrobe,ottoman,stool,nightstand,coffee table,armchair,love seat,headboard,footboard,bench,shelf,entertainment center,armoire,chest of drawer,buffet,sideboard,tv stand,lamp,rug,mirror"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.85708475,"chair,table,sofa,bed,desk,dresser,shelf,cabinet,bench,lamp,rug,mirror,wardrobe,ottoman,recliner,chaise lounge,bookcase,sideboard,armoire,coffee table,dining table,nightstand,loveseat,futon,hammock,rocker,stool,vanity,chest"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.54314208,"chair,table,sofa,bed,dresser,cabinet,shelf,desk,bench,stool,ottoman,armoire,nightstand,bookcase,wardrobe,recliner,chaise lounge,loveseat,hammock,coffee table,dining table,sideboard,vanity,futon,ladder,mirror,lamp,rug,plant stand"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.51915121,"chair,table,sofa,bed,desk,dresser,cabinet,shelf,bookcase,bench,stool,wardrobe,ottoman,recliner,armoire,nightstand,chaise lounge,coffee table,dining table,armchair,end table,entertainment center,futon,hammock,rocking chair,vanity,ladder rack,console"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.50253701,"chair,table,sofa,bed,dresser,desk,lamp,shelf,cabinet,stool,bench,ottoman,armoire,nightstand,bookcase,wardrobe,recliner,chaise lounge,coffee table,dining table,side table,armchair,rocking chair,futon,vanity,mirror,headboard,footboard"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.49495387,"chair,table,sofa,bed,dresser,cabinet,desk,shelf,lamp,rug,ottoman,bench,stool,wardrobe,nightstand,chaise,recliner,bookcase,armoire,hammock,vanity,mirror,screen,coffee table,side table,dining table,armchair,loveseat,futon"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.853209496,"chair,table,bed,desk,sofa,bookshelf,dresser,nightstand,armchair,cabinet,wardrobe,coffee table,bookcase,ottoman,stool,bench,mirror,lamp,dresser,recliner,end table,shelf,hutch,sideboard,loveseat,swing,glider,swing chair,cabinet"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.282718658,"chair,table,desk,bed,sofa,shelf,cabinet,dresser,bookcase,nightstand,wardrobe,mirror,lamp,pillow,blanket,rug,stool,ottoman,bench,armchair,recliner,coffee table,end table,tv stand,bookshelf,dresser,side table,night lamp,headboard"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.296202421,"table,chair,sofa,bed,desk,dresser,bookshelf,nightstand,cabinet,closet,shelf,stool,ottoman,armchair,coffee table,lamp,mirror,rug,pillow,blanket,headboard,night lamp,wardrobe,dresser,side table,bench,storage unit,file cabinet,bookcase,end table"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.299066067,"sofa,chair,table,desk,bookshelf,bed,dresser,nightstand,wardrobe,cabinet,closet,dresser,shelf,ottoman,bench,stool,lamp,mirror,rug,curtain,blind,pillow,mattresse,headboard,nightlight,picture frame,coat rack,bookcase,coffee table,end table"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.288300753,"sofa,chair,table,desk,bed,dresser,bookshelf,cabinet,wardrobe,tv stand,coffee table,nightstand,dresser,bench,ottoman,bookcase,tv,mirror,lamp,rug,pillow,cushion,headboard,nightlight,hutch,sideboard,stool,shelf,closet,drawer"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.40583396,"table,chair,bed,sofa,desk,dresser,bookshelf,wardrobe,nightstand,stool,bench,cabinet,ottoman,recliner,coffee table,tv stand,end table,loveseat,sectional,armoire,vanity,mirror,headboard,footboard,chaise lounge"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.87267685,"sofa,chair,table,desk,bed,dresser,bookshelf,wardrobe,nightstand,coffee table,tv stand,stool,ottoman,loveseat,recliner,chaise lounge,futon,armoire,vanity,mirror,bench,rocking chair,high chair,bar stool,dining table,end table,console table"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.989093065,"table,chair,bed,sofa,desk,bookshelf,wardrobe,dresser,mirror,nightstand,coffee table,tv stand,stool,ottoman,loveseat,recliner,chaise lounge,daybed,armoire,vanity,bench,chest of drawer"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.76673174,"chair,table,bed,desk,sofa,wardrobe,bookshelf,dresser,nightstand,coffee table,tv stand,recliner,ottoman,loveseat,chaise lounge,armoire,vanity,stool,bench,futon,mattres,headboard,footboard,crib,highchair,barstool,picnic table"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.77823591,"table,chair,bed,sofa,desk,wardrobe,bookshelf,dresser,nightstand,coffee table,tv stand,ottoman,loveseat,recliner,stool,bench,cabinet,armoire,vanity,mirror,headboard,footboard,rocking chair,glider,chaise lounge,sectional,daybed,futon"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,54.46873426,"chair,table,sofa,bed,desk,couch,wardrobe,dresser,cabinet,bookshelf,armchair,recliner,ottoman,coffee table,end table,nightstand,chest of drawer,credenza,sideboard,buffet,hutch,stool,bench,bar stool,dining table,dining chair,loveseat,futon,bunk bed,crib,cradle,bassinet,high chair,changing table,vanity,entertainment center,tv stand,bookcase,filing cabinet,coat rack,shoe rack,umbrella stand,chaise lounge,daybed,headboard,footboard,mattres,patio table,hammock,rocking chair,bean bag,settee,armoire,console table,folding chair,folding table,workbench,shelving unit,room divider,trunk,chest,plant stand,baker's rack,secretary desk,drafting table,cot,footstool,divan,davenport,canopy bed,waterbed,murphy bed,playpen,porch swing,picnic table,deck chair,sun lounger,garden bench,pew,pulpit,lectern,podium,throne,massage table,billiard table,card table,nesting table,telephone table,hall tree,valet stand,quilt rack,magazine rack,curio cabinet,display case,gun cabinet,liquor cabinet,tea cart,serving cart,pouf,tuffet,kneeling chair,gaming chair,ergonomic chair,swivel chair,club chair,wingback chair,step stool,slipper chair,inflatable chair,corner sofa,sectional,sofa bed,chesterfield,four-poster bed,sleigh bed,platform bed,trundle bed,loft bed,air mattres,camp bed,adjustable bed,roll-top desk,computer desk,writing desk,standing desk,easel,music stand,wine rack,commode,chiffonier,tallboy,lowboy,bureau"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.79936004,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,ottoman,couch,armchair,nightstand,coffee table,dining table,stool,cabinet,bench,recliner,chest of drawer,futon,bunk bed,sideboard,buffet,hutch,vanity,cot,crib,high chair,rocking chair,chaise lounge,loveseat,sectional,credenza,filing cabinet,coat rack,shoe rack,entertainment center,tv stand,mattres,headboard,footstool,bar stool,patio table,lawn chair,hammock,porch swing,armoire,secretary,console table,end table,divan,settee,bean bag,drafting table,baker's rack,kitchen island,pantry,hall tree,umbrella stand,daybed,canopy bed,murphy bed"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,39.48787808,"chair,table,sofa,bed,desk,dresser,wardrobe,cabinet,bookshelf,armchair,ottoman,stool,bench,nightstand,coffee table,dining table,couch,futon,loveseat,recliner,chaise lounge,vanity,sideboard,buffet,hutch,credenza,bookcase,filing cabinet,crib,cradle,bunk bed,cot,mattres,headboard,footboard,chest of drawer,armoire,entertainment center,tv stand,console table,end table,bean bag,rocking chair,glider,bar stool,kitchen island,pantry,china cabinet,secretary desk,drafting table,workstation,conference table,patio chair,patio table,picnic table,hammock,porch swing,sun lounger,deck chair,folding chair,folding table,card table,coat rack,shoe rack,room divider,screen,umbrella stand,magazine rack,wine rack,telephone table,plant stand,hall tree,hope chest,toy box,pouf,settee,davenport,divan,chesterfield,sectional,murphy bed,trundle bed,daybed,canopy bed,four-poster bed,waterbed,air mattres,kneeler,pew,altar,pulpit,lectern,podium,high chair,changing table,playpen,bassinet,radiator cover,fireplace screen,mantel,easel,bureau,chiffonier,tallboy,lowboy,commode,cupboard,secretaire,writing desk,roll-top desk,computer desk,standing desk,ergonomics chair,swivel chair,club chair,wingback chair,bergère,fauteuil,morris chair,windsor chair,adirondack chair,director's chair,cantilever chair,panton chair,tulip chair,egg chair,ball chair,bubble chair,womb chair,barcelona chair,ghost chair,navy chair,chiavari chair,tiffany chair,folding screen,shoji screen,blanket chest,cedar chest,steamer trunk,footstool,hassock,tuffet,prayer rug,music stand,piano bench,organ bench,drum throne,gaming chair,massage chair,lift chair,sleeper sofa,sofa bed,convertible sofa,click-clack,futon frame,bed frame,box spring,slat base,platform bed,sleigh bed,panel bed,storage bed,loft bed,cabin bed,hospital bed,adjustable bed,gurney,stretcher,examination table,operating table,dental chair,barber chair,salon chair,styling station,manicure table,pedicure chair,reception desk,checkout counter,display case,display rack,gondola,slatwall,gridwall,mannequin,podium,lectern,rostrum,dai,bleacher,stadium seat,theater seat,church pew,confessional,kneeler,font,altar table,communion table,pulpit,ambo,lectern,tabernacle,ark,bimah,minbar,mihrab,divider,partition,cubicle wall,sound booth,acoustic panel,whiteboard,blackboard,chalkboard,bulletin board,cork board,map stand,chart stand,globe stand,umbrella holder,wastebasket,trash can,recycling bin,laundry hamper,linen basket,ironing board,valet stand,suit stand,tie rack,belt rack,scarf rack,jewelry armoire,cheval mirror,standing mirror,dressing table,makeup station,washstand,dry sink,meat safe,pie safe,jelly cupboard,hoosier cabinet,kitchen dresser,welsh dresser,dresser,sideboard,buffet,credenza,server,trolley,bar cart,tea cart,serving cart,kitchen trolley,butcher block,kitchen island,breakfast bar,bar counter,reception counter,sales counter,cash wrap,vitrine,curio cabinet,display cabinet,trophy case,gun cabinet,gun safe,safe,strongbox,locker,footlocker,storage trunk,storage bin,storage box,storage crate,storage basket,storage rack,shelving unit,wire shelving,plastic shelving,metal shelving,wooden shelving,floating shelf,corner shelf,ladder shelf,wall shelf,mantelpiece,fireplace surround,hearth,fire screen,andiron,log holder,coal scuttle,umbrella stand,walking stick stand,hat rack,coat stand,coat tree,hall stand,hall bench,monk's bench,settle,deacon's bench,pew,choir stall,misericord,throne,cathedra,bishop's chair,sedilia,faldstool,folding stool,camp stool,fishing stool,shooting stick,milking stool,step stool,kitchen stool,bar stool,counter stool,piano stool,drum stool,laboratory stool,shop stool,drafting stool,saddle stool,kneeling chair,balance ball chair,beanbag,sack,floor cushion,zabuton,zafu,meditation cushion,yoga bolster,pilates reformer,massage table,chiropractic table,inversion table,weight bench,dumbbell rack,squat rack,power cage,smith machine,cable machine,treadmill,elliptical,stationary bike,rowing machine,stair climber,punching bag,speed bag,pommel horse,balance beam,vaulting horse,parallel bar,uneven bar,horizontal bar,ring,trampoline,diving board,starting block,podium,winner's podium,rostrum,soapbox,stump,log,boulder,stone bench,park bench,garden bench,bus stop bench,waiting room chair,airport seating,train seat,bus seat,car seat,bucket seat,bench seat,rumble seat,jump seat,ejector seat,pilot's seat,captain's chair,mate's chair,helm seat,fighting chair,saddle,pillion,sidecar,rickshaw,sedan chair,litter,palanquin,stretcher,gurney,wheelchair,walker,rollator,commode chair,shower chair,bath bench,transfer bench,toilet seat,bidet,urinal,sink,basin,bathtub,shower stall,toilet,lavatory,washbasin,vanity unit,medicine cabinet,towel rack,towel rail,towel ring,toilet roll holder,soap dish,toothbrush holder,cup holder,grab bar,handrail,banister,balustrade,newel post,spindle,stair tread,riser,stringer,skirting board,wainscoting,dado rail,picture rail,cornice,crown molding,ceiling rose,medallion,chandelier,pendant light,wall sconce,floor lamp,table lamp,desk lamp,task lamp,reading lamp,bedside lamp,nightlight,lava lamp,salt lamp,tiffany lamp,banker's lamp,piano lamp,picture light,track lighting,recessed lighting,spotlight,floodlight,lantern,torch,candle holder,candlestick,candelabra,menorah,kinara,incense burner,oil lamp,kerosene lamp,gas lamp,street lamp,lamppost,traffic light,signal light,beacon,lighthouse,buoy,mooring bollard,capstan,windlas,winch,davit,crane,hoist,pulley,block and tackle,ladder,step ladder,extension ladder,rope ladder,fire escape,scaffolding,trestle,sawhorse,workbench,tool chest,tool box,tool rack,pegboard,vice,anvil,forge,kiln,pottery wheel,spinning wheel,loom,sewing machine table,ironing machine,mangle,wringer,washing machine,dryer,dishwasher,refrigerator,freezer,stove,oven,range,microwave,toaster,blender,mixer,coffee maker,espresso machine,kettle,teapot,samovar,urn,thermo,cooler,ice box,picnic basket,hamper,tiffin carrier,lunch box,bento box,briefcase,suitcase,luggage,baggage,backpack,knapsack,rucksack,satchel,messenger bag,tote bag,handbag,purse,wallet,clutch,fanny pack,money belt,holster,scabbard,sheath,quiver,bandolier,cartridge belt,ammo box,tackle box,bait box,creel,game bag,birdcage,aquarium,terrarium,vivarium,paludarium,riparium,formicarium,ant farm,beehive,apiary,coop,hutch,kennel,crate,carrier,cage,pen,corral,stable,stall,manger,trough,stanchion,yoke,harnes,bridle,bit,rein,saddle,stirrup,girth,cinch,blanket,pad,horseshoe,anvil,hammer,tong,bellow,furnace,crucible,mold,die,cast,pattern,template,jig,fixture,clamp,vice,pres,drill,saw,lathe,mill,grinder,sander,planer,jointer,router,shaper,mortiser,tenoner,dovetailer,bandsaw,scroll saw,jigsaw,circular saw,table saw,radial arm saw,miter saw,chop saw,cut-off saw,panel saw,rip saw,crosscut saw,hacksaw,coping saw,fret saw,bow saw,pruning saw,chainsaw,axe,hatchet,adze,froe,drawknife,spokeshave,plane,chisel,gouge,scraper,file,rasp,sandpaper,steel wool,whetstone,grindstone,oilstone,waterstone,diamond stone,strop,honing guide,screwdriver,wrench,spanner,plier,cutter,stripper,crimper,hammer,mallet,sledgehammer,maul,club,bat,stick,cane,crutch,walker,wheelchair,scooter,bicycle,tricycle,unicycle,skateboard,roller skate,ice skate,ski,snowboard,sled,toboggan,sleigh,carriage,wagon,cart,buggy,chariot,coach,bu,truck,van,car,motorcycle,moped,scooter,boat,ship,canoe,kayak,raft,barge,ferry,liner,tanker,freighter,trawler,tugboat,yacht,sailboat,catamaran,trimaran,submarine,hovercraft,hydrofoil,airplane,helicopter,glider,balloon,airship,zeppelin,rocket,satellite,probe,rover,lander,orbiter,station,module,capsule,suit,helmet,visor,mask,goggle,glasse,contact lense,monocle,lorgnette,pince-nez,telescope,microscope,binocular,periscope,kaleidoscope,camera,projector,screen,monitor,display,television,radio,phonograph,gramophone,turntable,stereo,speaker,amplifier,receiver,tuner,equalizer,mixer,synthesizer,keyboard,drum,guitar,bas,violin,cello,viola,bas,harp,flute,clarinet,oboe,bassoon,saxophone,trumpet,trombone,tuba,horn,piano,organ,accordion,harmonica,xylophone,marimba,vibraphone,glockenspiel,chime,bell,gong,cymbal,drum,tambourine,shaker,rattle,whistle,siren,horn,buzzer,bell,clock,watch,timer,hourglas,sundial,calendar,almanac,diary,journal,notebook,notepad,paper,pen,pencil,marker,crayon,chalk,brush,paint,ink,eraser,sharpener,ruler,tape,glue,stapler,clip,pin,tack,nail,screw,bolt,nut,washer,anchor,bracket,hinge,handle,knob,lock,key,chain,rope,cord,string,thread,yarn,wire,cable,hose,pipe,tube,duct,vent,fan,heater,cooler,conditioner,humidifier,purifier,filter,pump,valve,faucet,tap,drain,sink,basin,tub,shower,toilet,bidet,urinal"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,16.03969717,"chair,table,sofa,bed,desk,bookshelf,dresser,nightstand,wardrobe,armchair,coffee table,dining table,couch,ottoman,loveseat,recliner,stool,bench,cabinet,cupboard,futon,bunk bed,crib,cradle,sideboard,buffet,hutch,vanity,chest of drawer,armoire,chaise lounge,divan,settee,hammock,patio chair,folding chair,office chair,filing cabinet,rocking chair,glider,footstool,headboard,console table,end table,tv stand,entertainment center,bookcase,pantry,kitchen island,bar stool,high chair,changing table,coat rack,shoe rack,umbrella stand,secretary desk,credenza,drafting table,bean bag,canopy bed,daybed,trundle bed,murphy bed,sofa bed,sectional,wingback chair,adirondack chair,sun lounger,garden bench,picnic table,baker's rack,wine rack,room divider,folding screen,grandfather clock,hope chest,china cabinet,curio cabinet,serving cart,nesting table"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,13.25982642,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,couch,armchair,ottoman,nightstand,cabinet,stool,bench,coffee table,dining table,recliner,loveseat,futon,bunk bed,crib,cradle,chaise lounge,sideboard,buffet,credenza,hutch,chest of drawer,armoire,vanity,bookcase,filing cabinet,office chair,rocking chair,bar stool,headboard,footboard,mattres,cot,daybed,trundle bed,murphy bed,beanbag,settee,chesterfield,console table,end table,side table,folding chair,drafting table,workbench,coat rack,umbrella stand,room divider,screen,grandfather clock,patio chair,sun lounger,hammock,highchair,playpen,pew,lectern,podium,secretary desk,wall unit,entertainment center,pantry,cupboard,shelf,mantelpiece"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,37.44647074,"chair,table,sofa,bed,desk,dresser,cabinet,bookshelf,stool,ottoman,bench,wardrobe,chest,wardrobe,cupboard,shelf,credenza,nightstand,cabinet,counter,recliner,chaise lounge,console table,dining table,coffee table,dresser,armoire,headboard,footstool,couch,sectional,daybed,piano bench,barstool,futon,buffet,sideboard,hope chest,bookcase,hall tree,lounge chair,dining chair,vanity,storage bench,filing cabinet,bathroom vanity,kitchen island"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,22.8848598,"chair,sofa,table,desk,bed,dresser,cabinet,bookshelf,stool,ottoman,bench,wardrobe,chest of drawer,nightstand,couch,loveseat,recliner,coffee table,dining table,futon,side table,cupboard,hutch,footstool,entertainment center,armoire,shelf,chaise lounge,console table,credenza"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,60.60187006,"chair,sofa,table,bed,desk,dresser,cabinet,bookshelf,bench,ottoman,coffee table,nightstand,wardrobe,stool,dining table,recliner,loveseat,side table,bar stool,vanity,armchair,console table,buffet,chest,filing cabinet,chaise lounge,rocker,daybed,futon,bookcase,tv stand,end table,shelving unit,hutch,credenza,cupboard,sofa bed,folding chair,desk chair,pedestal,étagère,showcase,counter stool,fireplace mantel"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,27.02557158,"chair,table,sofa,bed,cupboard,bookshelf,drawer,wardrobe,stool,bench,couch,recliner,ottoman,shelf,cabinet,desk,dresser,countertop,barstool,nightstand,coffee table,dining table,bunk bed,armoire,chaise longue,futon,filing cabinet,loveseat,vanity,console table,bookcase,chest of drawer,dressing table,hall tree,rocking chair,footstool,sideboard,credenza,tv stand,corner shelf,shoe rack,entertainment center,lamp stand,hammock,swing,bed frame,mirror,chandelier"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,19.23089027,"chair,table,sofa,bed,desk,dresser,cabinet,wardrobe,bookcase,television stand,nightstand,stool,bench,ottoman,coffee table,dining table,filing cabinet,sideboard,credenza,loveseat,chaise lounge,armoire,console table,barstool,rocking chair,recliner,futon,daybed,bunk bed,shelf,footstool"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.553048849,"sofa,chair,table,bed,desk,dresser,cupboard,wardrobe,couch,rocking椅,coffee table,bookshelf,dining table,armchair,lounge chair,patio furniture,dining set,ottoman,bunk bed,chaise lounge,entertainment center,rug"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,2.901203632,"sofa,chair,table,bed,dresser,desk,cabinet,bookshelf,lamp,couch,dining table,coffee table,wardrobe,nightstand,rocking chair,armchair,dining set,entertainment center,rug,bench,chaise lounge"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,1.971488237,"sofa,bed,table,chair,desk,couch,dresser,wardrobe,nightstand,coffee table,bookshelf,dining table,armchair,rocking chair"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.438951015,"sofa,chair,table,bed,dresser,cabinet,desk,bookshelf,lamp,couch,dining table,coffee table,wardrobe,nightstand,rocking chair,armchair,dining set,entertainment center,rug,chaise lounge,patio furniture,ottoman,dining chair,sideboard"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,1.212149143,"sofa,bed,table,chair,desk,dresser,cabinet,couch,bookshelf,lamp"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.17076993,"sofa,bed,table,chair,desk,couch,dresser,wardrobe,lamp,rug,bookshelf,dining table,coffee table,armchair,rocking chair,ottoman,chaise lounge,dining set,patio furniture,bunk bed,headboard,nightstand"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.227424383,"sofa,bed,table,chair,desk,couch,dresser,nightstand,wardrobe,bookshelf,dining table,armchair,coffee table,rocking chair,dining set,rug,lamp,chaise lounge,rocking horse,dining chair,entertainment center,bench,closet"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.390170574,"sofa,chair,table,bed,desk,dresser,couch,lamp,bookshelf,wardrobe,dining table,coffee table,armchair,rocking chair,dining set,entertainment center,nightstand,rug,chaise lounge,dining chair,ottoman,sofa bed,dining room table"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.394048214,"sofa,bed,table,chair,desk,couch,dresser,wardrobe,bookshelf,lamp,rug,dining table,coffee table,armchair,rocking chair,dining set,entertainment center,ottoman,dining chair,nightstand,sofa bed,chaise lounge,dining table set"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,2.460741282,"sofa,bed,table,chair,desk,dresser,wardrobe,couch,dining table,bookshelf,lamp,rug,armchair,coffee table,entertainment center,chaise longue,rocking chair"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.114001989,"sofa,chair,table,bed,dresser,cabinet,bookshelf,couch,wardrobe,lamp,rug,desk,dining table,coffee table,nightstand,rocking chair,armchair,chaise lounge,entertainment center,bunk bed,dining set,patio furniture"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.334414482,"sofa,chair,table,bed,desk,dresser,couch,lamp,bookshelf,wardrobe,dining table,coffee table,armchair,rocking chair,nightstand,rug,chaise lounge,entertainment center,patio furniture,rocking horse,dining chair,credenza,ottoman"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,1.266418934,"sofa,bed,table,chair,desk,dresser,cabinet,nightstand,couch,bookshelf"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,2.677970409,"sofa,bed,table,chair,desk,couch,dresser,wardrobe,nightstand,coffee table,bookshelf,dining table,armchair,rocking chair,dining set,ottoman,chaise longue,cabinet"
+Qwen2.5-7B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,3.061873913,"sofa,chair,table,bed,desk,dresser,cupboard,couch,dining table,nightstand,bookshelf,wardrobe,armchair,coffee table,rocking chair,sofa bed,chaise longue,bunk bed,dining room table,end table"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.317878723,"chair,table,bed,sofa,desk,dresser,lamp,bookshelf,wardrobe,rug,couch,nightstand,coffee table,armchair,ottoman,sideboard,cabinet,chest,stool,bench"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.368652582,"chair,table,bed,sofa,desk,wardrobe,shelf,lamp,rug,cabinet,dresser,stool,hammock,ottoman,coffee table,bookcase,couch,recliner,nightstand,end table"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.272047281,"chair,table,bed,sofa,desk,lamp,wardrobe,cabinet,dresser,shelf,rug,chair,stool,ottoman,sideboard,coffee table,bookcase,chest,hammock,love seat"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.231257915,"chair,table,bed,sofa,desk,wardrobe,cabinet,shelf,dresser,lamp,rug,coffee table,bookcase,chair,stool,couch,side table,chest,hammock,ottoman"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.27584815,"chair,table,bed,sofa,desk,lamp,wardrobe,bookshelf,drawer,cabinet,rug,coffee table,armchair,side table,chest,couch,stool,ottoman,dresser,nightstand"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.269744635,"chair,table,bed,sofa,desk,wardrobe,lamp,shelf,drawer,cabinet,rug,couch,armchair,ottoman,sideboard,bookcase,dresser,coffee table,nightstand,stool"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.271544456,"chair,table,bed,sofa,desk,dresser,lamp,rug,cabinet,bookshelf,coffee table,chair,stool,shelf,end table,nightstand,wardrobe,couch,armchair,ottoman"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.367583275,"chair,table,bed,sofa,desk,wardrobe,bookshelf,lamp,rug,cabinet,drawer,chest,stool,couch,armchair,sideboard,coffee table,nightstand,ottoman,hammock"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.273761034,"chair,table,bed,sofa,desk,dresser,lamp,bookshelf,cabinet,rug,couch,coffee table,side table,wardrobe,stool,chest,hammock,ottoman,shelf,nightstand"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.267234325,"chair,table,bed,sofa,desk,lamp,wardrobe,drawer,shelf,cabinet,rug,mirror,couch,nightstand,armchair,bookcase,dresser,ottoman,coffee table,side table"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.26802969,"chair,table,bed,sofa,desk,wardrobe,lamp,rug,shelf,cabinet,dresser,stool,couch,side table,coffee table,bookcase,armchair,hammock,chest,ottoman"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.557760239,"chair,table,bed,sofa,desk,dresser,lamp,rug,cabinet,shelf,wardrobe,stool,rug,coffee table,bookcase,armchair,ottoman,nightstand,hammock,chest,end table"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,5.660337448,"chair,table,bed,sofa,desk,dresser,lamp,bookshelf,rug,cabinet,wardrobe,stool,coffee table,end table,nightstand,shelf,hammock,chest,ottoman,couch,recliner,sideboard,console table,love seat,armchair"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.370269537,"chair,table,bed,sofa,desk,lamp,cabinet,wardrobe,shelf,rug,couch,dresser,nightstand,armchair,coffee table,bookcase,ottoman,stool,sideboard,hammock"
+Qwen2.5-14B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.272614956,"chair,table,bed,sofa,desk,lamp,cabinet,dresser,shelf,rug,wardrobe,coffee table,stool,bookcase,side table,chest,hammock,ottoman,vanity,recliner"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.85737443,"chair,table,bed,sofa,cabinet,dresser,bookshelf,desk,wardrobe,ottoman,stool,lamp,rug,closet,nightstand,coffee table,dining table,armchair,bench,shelf,entertainment center,headboard,footboard,side table,console table,buffet,armoire,chest of drawer,love"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.805603266,"chair,table,bed,sofa,dresser,cabinet,bookshelf,desk,wardrobe,stool,ottoman,coffee table,nightstand,armoire,chest of drawer,love seat,recliner,bench,file cabinet,entertainment center,headboard,footboard,buffet,sideboard,highboy,lowboy,hammock"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.808297634,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,wardrobe,ottoman,stool,lamp,rug,mirror,nightstand,coffee table,armchair,love seat,headboard,footboard,chest of drawer,entertainment center,sideboard,buffet,rocking chair,high chair,bunk bed,recliner"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.823815346,"chair,table,bed,sofa,cabinet,dresser,wardrobe,bookshelf,desk,stool,ottoman,coffee table,side table,armoire,nightstand,recliner,love seat,couch,settee,bench,high chair,tv stand,file cabinet,entertainment center,headboard,footboard,vanity,mirror"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.830556393,"chair,table,bed,sofa,dresser,cabinet,bookshelf,desk,ottoman,stool,wardrobe,nightstand,coffee table,armchair,love seat,headboard,footboard,closet,armoire,chest of drawer,vanity,mirror,hutch,buffet,sideboard,bench,recliner,lounger"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.810056448,"chair,table,bed,sofa,dresser,cabinet,bookshelf,desk,wardrobe,stool,ottoman,nightstand,coffee table,side table,armoire,chest of drawer,tv stand,headboard,footboard,loveseat,recliner,high chair,desk chair,armchair,chaise lounge,bunk bed"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.81516552,"chair,table,bed,sofa,cabinet,desk,shelf,wardrobe,dresser,ottoman,stool,bookcase,nightstand,coffee table,armchair,loveseat,couch,headboard,footboard,sideboard,buffet,dining table,high chair,rocking chair,recliner,bench,hammock,futon"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.818058968,"chair,table,bed,sofa,cabinet,dresser,bookshelf,desk,wardrobe,stool,ottoman,nightstand,coffee table,side table,armoire,chest of drawer,loveseat,bunk bed,recliner,entertainment center,headboard,footboard,vanity,mirror,lamp,rug,shelf,closet,h"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.816564322,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,wardrobe,ottoman,stool,coffee table,nightstand,armoire,chest of drawer,loveseat,recliner,entertainment center,headboard,footboard,vanity,mirror,lamp,rug,carpet,curtain,closet,shelf,hammock"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.797138453,"chair,table,bed,sofa,cabinet,dresser,bookshelf,desk,wardrobe,ottoman,stool,lamp,rug,mirror,nightstand,coffee table,armchair,headboard,footboard,entertainment center,shelf,hutch,armoire,chest of drawer,love seat,recliner,rocking chair,end table"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.823236227,"chair,table,bed,sofa,dresser,cabinet,bookshelf,desk,wardrobe,stool,ottoman,coffee table,nightstand,armoire,chest of drawer,loveseat,recliner,bench,file cabinet,entertainment center,headboard,footboard,side table,console table,bunk bed,rocking chair,chaise"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.804770947,"chair,table,bed,sofa,cabinet,dresser,bookshelf,desk,nightstand,ottoman,wardrobe,stool,shelf,coffee table,armchair,love seat,headboard,footboard,bench,hutch,armoire,chest of drawer,entertainment center,tv stand,lamp,rug,mirror,end table"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.816285133,"chair,table,bed,sofa,dresser,cabinet,bookshelf,desk,nightstand,ottoman,wardrobe,stool,bench,coffee table,side table,armoire,headboard,footboard,loveseat,recliner,entertainment center,tv stand,shelf unit,filing cabinet,end table,console table,highboy"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.809579372,"chair,table,bed,sofa,cabinet,dresser,desk,bookshelf,ottoman,lamp,rug,closet,wardrobe,nightstand,coffee table,entertainment center,armoire,stool,bench,headboard,footboard,vanity,mirror,hutch,shelf,loveseat,recliner,rocker,chaise lounge"
+Qwen2.5-32B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.812704802,"chair,table,bed,sofa,cabinet,dresser,bookshelf,desk,wardrobe,stool,ottoman,coffee table,nightstand,armoire,chest of drawer,love seat,recliner,bench,entertainment center,file cabinet,headboard,footboard,side table,highboy,lowboy,settee,hammock"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.62394738,"chair,table,sofa,bed,dresser,desk,cabinet,shelf,bench,stool,wardrobe,ottoman,nightstand,bookcase,chaise lounge,armchair,recliner,coffee table,dining table,end table,entertainment center,bar stool,ladder,rocking chair,futon,hammock,armoire,t"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.33936453,"chair,table,sofa,bed,desk,dresser,cabinet,shelf,lamp,rug,ottoman,bench,stool,bookcase,wardrobe,nightstand,recliner,armchair,coffee table,dining table,sideboard,chaise lounge,futon,loveseat,vanity,armoire,bar stool,bean bag"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.31942201,"chair,table,sofa,bed,dresser,desk,shelf,cabinet,wardrobe,bench,stool,ottoman,chaise,lounger,armoire,nightstand,bookcase,recliner,hammock,futon,coffee table,dining table,sideboard,console,vanity,mirror,lamp,rug,pillow,cushion"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.29905391,"chair,table,sofa,bed,dresser,desk,cabinet,shelf,bench,stool,wardrobe,ottoman,nightstand,armchair,recliner,chaise lounge,bookcase,coffee table,dining table,end table,loveseat,sectional,armoire,vanity,mirror,hammock,rocker,headboard"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.32450676,"chair,table,sofa,bed,dresser,desk,cabinet,shelf,stool,bench,wardrobe,ottoman,recliner,nightstand,coffee table,bookcase,armchair,dining table,chaise lounge,armoire,vanity,headboard,footstool,sideboard,console table,ladder,storage unit,mirror"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.33639145,"chair,table,sofa,bed,dresser,cabinet,desk,shelf,lamp,rug,ottoman,bench,wardrobe,recliner,chaise lounge,coffee table,side table,bookcase,dining table,armchair,nightstand,chest,mirror,loveseat,bar stool,storage unit,sectional,vanity,head"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.31332731,"chair,table,sofa,bed,dresser,cabinet,shelf,desk,lamp,stool,bench,ottoman,wardrobe,nightstand,armchair,recliner,bookcase,coffee table,dining table,chaise lounge,sectional,vanity,chest,armoire,entertainment center,barstool,loveseat,headboard"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.31359792,"chair,table,sofa,bed,desk,dresser,shelf,cabinet,bench,stool,nightstand,armchair,ottoman,bookcase,wardrobe,recliner,chaise lounge,coffee table,dining table,end table,loveseat,sectional,vanity,armoire,chest,trestle,easel,hamm"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.30996537,"chair,table,sofa,bed,dresser,cabinet,desk,shelf,lamp,rug,ottoman,bench,wardrobe,recliner,nightstand,bookcase,chaise lounge,hammock,stool,armoire,vanity,headboard,footstool,coffee table,side table,dining table,armchair,loveseat"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.33117533,"chair,table,sofa,bed,dresser,desk,cabinet,shelf,stool,bench,wardrobe,ottoman,nightstand,armchair,chaise lounge,recliner,bookcase,coffee table,dining table,sideboard,armoire,vanity,loveseat,sectional,rocking chair,bean bag,hammock,fut"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.30714822,"chair,table,sofa,bed,desk,dresser,shelf,cabinet,wardrobe,bench,stool,ottoman,nightstand,armchair,recliner,bookcase,coffee table,dining table,sideboard,armoire,vanity,chaise lounge,futon,hammock,rocking chair,ladder,mirror,lamp,rug"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.33187628,"chair,table,sofa,bed,dresser,cabinet,desk,shelf,lamp,rug,ottoman,bench,wardrobe,stool,recliner,chaise lounge,bookcase,nightstand,coffee table,dining table,armchair,loveseat,sectional,vanity,armoire,futon,hammock,rocking chair"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.31154346,"chair,table,sofa,bed,dresser,cabinet,desk,shelf,lamp,rug,ottoman,bench,mirror,wardrobe,armchair,recliner,coffee table,side table,nightstand,bookcase,chaise lounge,dining table,sectional,vanity,chest,armoire,headboard,footstool"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.32571578,"chair,table,sofa,bed,dresser,cabinet,desk,shelf,lamp,rug,ottoman,bench,mirror,bookcase,armchair,recliner,coffee table,side table,nightstand,wardrobe,chaise lounge,dining table,stool,vanity,armoire,hammock,rocking chair,futon,love"
+Qwen2.5-72B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.32902336,"chair,table,sofa,bed,dresser,desk,cabinet,shelf,lamp,rug,ottoman,bench,stool,wardrobe,nightstand,recliner,armchair,coffee table,dining table,bookcase,chaise lounge,sectional,vanity,armoire,console table,entertainment center,headboard,footstool"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.784314632,"chair,table,bed,desk,sofa,bookshelf,cabinet,dresser,nightstand,dresser,armchair,ottoman,lamp,mirror,shelf,wardrobe,coffee table,tv stand,bookcase,nightlight,side table,recliner,loveseat,bench,dresser,cabinet,hutch,rocking chair,dining table"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.222330332,"bed,chair,table,desk,sofa,bookshelf,cabinet,dresser,nightstand,lamp,mirror,wardrobe,pillow,blanket,rug,couch,ottoman,recliner,coffee table,end table,shelf,hutch,dresser,nightlight,headboard,footboard,frame,picture,vase,lampshade"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.232607365,"bed,chair,table,desk,sofa,bookshelf,dresser,nightstand,cabinet,shelf,wardrobe,mirror,lamp,rug,pillow,blanket,mattres,headboard,nightlight,dresser,ottoman,recliner,coffee table,end table,bookcase,side table,hutch,armoire,loveseat"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.227436781,"chair,table,sofa,bed,desk,dresser,bookshelf,nightstand,wardrobe,cabinet,tv stand,coffee table,recliner,ottoman,lamp,mirror,hutch,bookcase,shelf,stool,bench,cabinet,sideboard,dresser,nightstand,loveseat,armchair,lamp table,storage unit"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.225255728,"chair,table,bed,desk,shelf,cabinet,sofa,dresser,nightstand,bookcase,armchair,ottoman,recliner,coffee table,tv stand,bookshelf,wardrobe,bench,side table,dresser,television stand,piano,mirror,lamp,rug,couch,loveseat,glider,rocking chair"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.226924658,"dresser,table,chair,sofa,bed,desk,bookshelf,nightstand,wardrobe,cabinet,armchair,ottoman,coffee table,shelf,bench,stool,cabinet,side table,nightstand,bookcase,closet,dresser,loveseat,recliner,storage unit,tv stand,headboard,footboard"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.227256536,"chair,table,bed,desk,sofa,bookshelf,dresser,nightstand,wardrobe,mirror,lamp,cabinet,shelf,ottoman,armchair,recliner,coffee table,dining table,tv stand,bookcase,side table,chest,night lamp,dresser drawer,storage unit,cabinet organizer,desk chair,rocking chair"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.230480433,"bed,chair,table,desk,sofa,cabinet,bookshelf,dresser,mirror,lamp,wardrobe,nightstand,ottoman,armchair,coffee table,bookcase,stool,shelf,bench,tv stand,tv console,storage unit,dresser,side table,end table,recliner,loveseat,tv stand,tv"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.226704359,"chair,table,sofa,bed,desk,bookshelf,dresser,nightstand,cabinet,shelf,stool,bench,armchair,ottoman,coffee table,dining table,tv stand,bookcase,wardrobe,sideboard,mirror,rug,lamp,vase,picture frame,fireplace,piano,wardrobe,cupboard,drawer,closet"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.230636597,"bed,chair,table,desk,sofa,bookshelf,dresser,nightstand,armchair,cabinet,wardrobe,mirror,lamp,pillow,mattres,headboard,footboard,ottoman,recliner,coffee table,end table,bookcase,shelf,dresser,nightstand,side table,loveseat,divan,bench"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.228765249,"dresser,chair,table,bed,sofa,desk,bookshelf,cabinet,nightstand,wardrobe,ottoman,coffee table,mirror,lamp,bookcase,recliner,loveseat,end table,chest of drawer,armchair,television stand,tv stand,shelf,night lamp,bench,storage unit,closet,piano"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.234262943,"sofa,chair,table,desk,bed,bookshelf,dresser,wardrobe,nightstand,lamp,mirror,cabinet,shelf,ottoman,coffee table,bookcase,recliner,armchair,bench,stool,cabinet,nightstand,loveseat,divan,chaise lounge,dresser,side table,storage unit"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.229102373,"sofa,chair,table,desk,bed,bookshelf,dresser,wardrobe,nightstand,coffee table,ottoman,lamp,mirror,cabinet,bookcase,recliner,loveseat,bench,stool,armchair,side table,tv stand,hutch,cabinet,shelf,end table,dresser,console table,storage"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.228272676,"chair,table,bed,sofa,desk,bookshelf,dresser,nightstand,wardrobe,cabinet,bench,stool,ottoman,armchair,recliner,coffee table,end table,tv stand,bookcase,mirror,lamp,rug,pillow,blanket,mattres,headboard,nightlight,dresser,side table,tv"
+Meta-Llama-3.1-8B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,4.225821733,"table,chair,bed,sofa,desk,bookshelf,dresser,nightstand,wardrobe,cabinet,shelf,bench,ottoman,armchair,coffee table,dining table,side table,lamp,mirror,closet,rug,cushion,pillow,headboard,nightlight,picture frame,vase,plant stand,bookcase,end"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,11.03286362,"chair,table,bed,sofa,desk,wardrobe,bookshelf,dresser,nightstand,stool,loveseat,recliner,ottoman,coffee table,tv stand,end table,lamp,mirror,armoire,chaise lounge,sectional,futon,daybed,headboard,footboard,dresser,vanity"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,9.913970709,"chair,table,bed,sofa,desk,bookshelf,wardrobe,dresser,mirror,stool,ottoman,coffee table,tv stand,nightstand,recliner,loveseat,chaise lounge,armoire,chest of drawer,vanity,barstool,bench,daybed,futon"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.79877186,"chair,table,bed,sofa,desk,bookshelf,wardrobe,dresser,nightstand,stool,ottoman,loveseat,recliner,coffee table,tv stand,end table,lamp,armoire,vanity,futon,chaise lounge,daybed,headboard,footboard,bench,chest of drawer,mirror"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.79363441,"table,chair,bed,sofa,desk,wardrobe,dresser,bookshelf,nightstand,stool,ottoman,loveseat,recliner,coffee table,end table,tv stand,armoire,chaise lounge,bench,futon,hammock,headboard,footboard,rocking chair,glider,barstool"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.767241001,"table,chair,bed,desk,sofa,dresser,bookshelf,wardrobe,nightstand,coffee table,lamp,stool,armchair,loveseat,ottoman,recliner,tv stand,computer desk,filing cabinet,bookcase,wardrobe,vanity,mirror"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.78051877,"chair,table,desk,bed,sofa,couch,dresser,bookshelf,wardrobe,nightstand,stool,bench,ottoman,coffee table,tv stand,end table,loveseat,recliner,chaise longue,sectional,armoire,vanity,futon,mattres,headboard,footboard,barstool"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.77836394,"chair,table,bed,sofa,desk,dresser,bookshelf,nightstand,wardrobe,stool,loveseat,coffee table,tv stand,end table,ottoman,chaise lounge,recliner,armoire,vanity,mirror,headboard,footboard,mattres,futon,hammock,bench,chest of drawer"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.35180044,"table,chair,sofa,bed,desk,dresser,bookshelf,cabinet,wardrobe,nightstand,stool,ottoman,loveseat,coffee table,end table,tv stand,recliner,chaise lounge,armoire,vanity,mirror,headboard,footboard,bench,credenza,console table"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.77680826,"chair,table,bed,sofa,desk,dresser,bookshelf,nightstand,wardrobe,stool,ottoman,loveseat,coffee table,tv stand,end table,recliner,chaise lounge,futon,armoire,vanity,mirror,headboard,footboard,bench,chest of drawer,rocking chair,glider"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,8.620672226,"chair,table,bed,desk,sofa,wardrobe,dresser,bookshelf,nightstand,lamp,stool,ottoman,recliner,coffee table,tv stand,file cabinet,armoire,loveseat,chaise lounge,end table,console table"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.20152426,"chair,table,bed,sofa,desk,bookshelf,wardrobe,dresser,nightstand,coffee table,tv stand,recliner,loveseat,ottoman,stool,bench,chaise lounge,armoire,vanity,mirror,headboard,footboard,daybed,futon,hammock,mattres"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.78019309,"chair,table,bed,sofa,desk,wardrobe,dresser,bookshelf,nightstand,stool,ottoman,loveseat,coffee table,end table,recliner,chaise lounge,tv stand,armoire,vanity,mirror,chest of drawer,headboard,footboard,bench,futon,hammock,daybed"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.77930355,"chair,table,bed,sofa,desk,bookshelf,dresser,nightstand,wardrobe,stool,couch,loveseat,ottoman,coffee table,end table,tv stand,recliner,chaise lounge,bench,armoire,vanity,mirror,headboard,footboard,mattres,futon,daybed,hammock"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.77066064,"table,chair,bed,sofa,desk,dresser,bookshelf,nightstand,wardrobe,mirror,stool,loveseat,recliner,ottoman,coffee table,end table,tv stand,armoire,chaise lounge,sectional,futon,mattres,headboard,footboard,bench,credenza,console table"
+Meta-Llama-3.1-70B-Instruct,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.20448112,"chair,table,bed,desk,sofa,wardrobe,dresser,bookshelf,nightstand,stool,ottoman,loveseat,recliner,coffee table,tv stand,end table,armoire,chaise lounge,futon,bunk bed,mattres,headboard,footboard,bench,vanity,mirror"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,23.52990198,"chair,table,sofa,bed,desk,dresser,cabinet,couch,bookshelf,armchair,nightstand,wardrobe,stool,bench,ottoman,coffee table,dining table,loveseat,recliner,bookcase,sideboard,credenza,futon,bunk bed,crib,vanity,headboard,chest of drawer,rocking chair,chaise longue,highchair,bar stool,footstool,coat rack,filing cabinet,cupboard,armoire,buffet,hutch,entertainment center,console table,end table,drafting table,secretary desk,daybed,beanbag,folding chair,folding table,shelving unit,room divider,hammock,cot,lectern,podium,pew,mattres,cradle,bassinet,patio table,lawn chair,sectional,umbrella stand,shoe rack,wine rack,media console,display case,canopy bed,waterbed,four-poster bed,trundle bed,kitchen island,pantry,workbench,easel,prayer rug,tatami,screen,trestle table,pedestal table,gateleg table,drop-leaf table,card table,massage table,changing table,playpen,glider,swivel chair,wingback chair,club chair,slipper chair,morris chair,director's chair,adirondack chair,deckchair,kneeler,confessional,altar,pulpit,throne,dai,counter,bar,reception desk,cubicle,workstation,locker,safe,trunk,chest,hamper,valet stand,magazine rack,plant stand,telephone table,hall tree,umbrella holder,fireplace screen,radiator cover,grandfather clock"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,17.92482471,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,couch,stool,nightstand,cabinet,armchair,bench,ottoman,cupboard,recliner,coffee table,dining table,crib,bunk bed,credenza,sideboard,hutch,vanity,chest of drawer,futon,loveseat,chaise lounge,hammock,cot,headboard,footboard,mattres,filing cabinet,bookcase,rocking chair,bar stool,kitchen island,buffet,console table,end table,picnic table,folding chair,office chair,shelving unit,coat rack,armoire,pew,lectern,podium,drafting table,workstation,sectional,daybed,trundle bed,beanbag,highchair,bassinet,cradle,changing table,entertainment center,tv stand,display case,secretary desk,waterbed,murphy bed,canopy bed,settee,divan,davenport,chesterfield,lounger,pouf,footstool,hall tree,umbrella stand,room divider,screen,grandfather clock,piano bench"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,21.09552288,"chair,table,sofa,couch,bed,desk,dresser,wardrobe,bookshelf,nightstand,ottoman,coffee table,armoire,cabinet,bench,stool,recliner,dining table,side table,end table,bookcase,chest of drawer,futon,crib,bunk bed,loveseat,chaise longue,buffet,sideboard,hutch,vanity,console table,credenza,filing cabinet,cupboard,high chair,rocking chair,bar stool,footstool,beanbag,cot,daybed,trundle bed,canopy bed,headboard,mattres,patio chair,deck chair,garden bench,porch swing,hammock,folding table,folding chair,card table,drafting table,secretary desk,roll-top desk,workstation,office chair,gaming chair,swivel chair,club chair,wingback chair,slipper chair,settee,sectional,davenport,chesterfield,divan,fainting couch,room divider,screen,coat rack,hat stand,umbrella stand,valet stand,blanket box,hope chest,toy box,trunk,media console,entertainment center,tv stand,display case,vitrine,baker's rack,wine rack,kitchen island,serving cart,trolley,nesting table,drop-leaf table,gateleg table,picnic table,adirondack chair,sun lounger,pew,lectern,podium,throne,bassinet,cradle,changing table,playpen,air mattres,waterbed,murphy bed"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,19.81216693,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,couch,ottoman,armchair,recliner,nightstand,coffee table,dining table,sideboard,buffet,hutch,cabinet,cupboard,stool,bench,bar stool,loveseat,chaise lounge,futon,bunk bed,crib,cradle,high chair,vanity,chest of drawer,armoire,filing cabinet,bookcase,credenza,entertainment center,tv stand,console table,coat rack,shoe rack,umbrella stand,rocking chair,glider,porch swing,hammock,patio table,deck chair,bean bag,room divider,secretaire,bureau,davenport,settee,chesterfield,divan,daybed,trundle bed,canopy bed,headboard,mattres,folding chair,folding table,card table,drafting table,computer desk,standing desk,ergonomic chair,gaming chair,footstool,hassock,pouf,pantry,baker's rack,kitchen island,wine rack,display cabinet,curio cabinet,hope chest,trunk,changing table,bassinet,playpen,plant stand,magazine rack,nesting table,end table,sofa bed,sectional,swivel chair,wingback chair,adirondack chair,director's chair,pew,lectern,podium,throne"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,10.48705506,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,armchair,couch,cabinet,stool,bench,nightstand,coffee table,ottoman,recliner,futon,bunk bed,crib,sideboard,cupboard,chest of drawer,bookcase,dining table,vanity,chaise lounge,loveseat,credenza,hutch,buffet,armoire,rocking chair,bar stool,headboard,footboard,mattres,filing cabinet,cot,cradle,daybed,settee,divan,coat rack,room divider,beanbag,patio chair,garden bench,console table,end table,bureau,secretary desk,highchair,hammock,umbrella stand,drafting table"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,59.97597742,"chair,table,sofa,bed,desk,dresser,bookshelf,cabinet,armchair,couch,ottoman,nightstand,coffee table,end table,stool,bench,recliner,loveseat,futon,bunk bed,crib,cradle,high chair,dining table,dining chair,sideboard,buffet,hutch,china cabinet,console table,entertainment center,tv stand,filing cabinet,office chair,rocking chair,bean bag,chaise lounge,vanity,armoire,coat rack,shoe rack,umbrella stand,patio table,deck chair,hammock,porch swing,picnic table,folding chair,folding table,nesting table,secretary desk,roll-top desk,drafting table,murphy bed,waterbed,canopy bed,headboard,footboard,mattres,box spring,trunk,chest,footstool,pouf,settee,divan,hall tree,shelving unit,room divider,bookcase,credenza,lectern,podium,pew,altar,bassinet,changing table,playpen,cot,air mattres,sofa bed,wine rack,magazine rack,baker's rack"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,28.15855694,"chair,table,sofa,bed,desk,dresser,cabinet,bookshelf,bench,stool,ottoman,armchair,recliner,loveseat,nightstand,wardrobe,cupboard,couch,crib,cot,futon,hammock,bookcase,sideboard,buffet,hutch,vanity,chest of drawer,bureau,chaise lounge,divan,settee,credenza,headboard,mattres,coffee table,end table,dining table,kitchen island,bar stool,rocking chair,glider,bean bag,entertainment center,filing cabinet,coat rack,shoe rack,room divider,drafting table,secretary desk,high chair,bassinet,cradle,changing table,bunk bed,trundle bed,daybed,murphy bed,armoire,pantry,console table,folding chair,folding table,lawn chair,pew,lectern,podium"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,13.5430975,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,couch,ottoman,nightstand,armchair,cabinet,bench,stool,recliner,buffet,credenza,futon,crib,headboard,bookcase,sideboard,vanity,loveseat,chest,armoire,settee,divan,chaise lounge,footstool,cupboard,shelf,console,bureau,secretary,hassock,sectional,highchair,barstool,cot,bassinet,cradle,mattres,entertainment center,filing cabinet,coat rack,shoe rack,room divider,drafting table,coffee table,end table,dining table,patio chair,picnic table,rocking chair,bunk bed,canopy bed,daybed,trundle bed,murphy bed,pantry,hutch,chiffarobe,commode,fainting couch,umbrella stand,magazine rack,easel,podium,lectern,workbench"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,15.26593924,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,cabinet,stool,armchair,nightstand,coffee table,couch,ottoman,bench,recliner,dining table,sideboard,credenza,futon,loveseat,mattres,headboard,bureau,hutch,cupboard,barstool,chaise lounge,divan,settee,rocking chair,beanbag,hammock,crib,bunk bed,daybed,vanity,coat rack,shoe rack,chest,trunk,bookcase,entertainment center,tv stand,buffet,china cabinet,bar cart,kitchen island,folding chair,office chair,gaming chair,patio table,picnic table,garden bench,room divider,footstool,filing cabinet,locker"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,52.97776818,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,couch,cabinet,nightstand,ottoman,armchair,bench,stool,recliner,coffee table,dining table,end table,sideboard,buffet,hutch,credenza,futon,bunk bed,crib,cradle,highchair,chaise lounge,vanity,chest of drawer,armoire,bookcase,loveseat,settee,divan,rocking chair,beanbag,coat rack,room divider,headboard,mattres,filing cabinet,entertainment center,media console,barstool,patio table,deck chair,hammock,cot,daybed,trundle bed,murphy bed,canopy bed,secretary desk,drafting table,podium,lectern,pew,altar,throne,footstool,pouf,cupboard,pantry,shelf,rack,stand,console,bureau,chiffonier,davenport,chesterfield,sectional,sleeper sofa,wing chair,club chair,windsor chair,adirondack chair,folding chair,folding table,card table,picnic table,garden bench,porch swing,glider,bassinet,changing table,playpen,umbrella stand,magazine rack,quilt rack,valet stand,towel rack,hall tree,baker's rack,wine rack,display case,curio cabinet"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,35.00450921,"chair,table,bed,sofa,desk,dresser,wardrobe,bookshelf,armchair,couch,ottoman,nightstand,coffee table,cabinet,stool,bench,recliner,loveseat,dining table,cupboard,bookcase,chest of drawer,futon,bunk bed,sideboard,credenza,vanity,entertainment center,chaise lounge,buffet,armoire,cot,crib,headboard,filing cabinet,barstool,footstool,rocking chair,daybed,hall tree,coat rack,room divider,drafting table,console table,end table,mattres,box spring,patio chair,garden bench,sofa bed"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,43.24293184,"chair,table,bed,sofa,couch,desk,dresser,bookcase,bookshelf,nightstand,armchair,ottoman,wardrobe,cabinet,stool,bench,recliner,futon,crib,cradle,cot,bunk bed,dining table,coffee table,end table,sideboard,buffet,hutch,credenza,armoire,vanity,chest of drawer,filing cabinet,office chair,loveseat,chaise lounge,daybed,headboard,mattres,box spring,patio chair,picnic table,hammock,bean bag,barstool,coat rack,shoe rack,umbrella stand,room divider,console table,secretary desk,drafting table,entertainment center,tv stand,pantry,baker's rack,porch swing,glider,rocking chair,footstool,pouf,high chair,playpen,changing table,canopy bed,waterbed,murphy bed,trundle bed,sectional,chesterfield,divan,settee,davenport,nesting table,lamp stand,magazine rack,hall tree,pedestal,lectern,pew,altar,pulpit,throne,easel"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,20.64420319,"chair,table,sofa,bed,desk,dresser,wardrobe,cabinet,bookshelf,ottoman,stool,armchair,loveseat,couch,nightstand,coffee table,dining table,kitchen table,end table,side table,console table,vanity,bureau,chest of drawer,armoire,credenza,sideboard,buffet,hutch,china cabinet,curio cabinet,display case,entertainment center,tv stand,media console,recliner,rocking chair,glider,wingback chair,club chair,easy chair,bean bag,futon,daybed,chaise lounge,divan,settee,sectional,sofa bed,sleeper sofa,murphy bed,trundle bed,bunk bed,loft bed,canopy bed,four-poster bed,waterbed,cot,crib,bassinet,cradle,changing table,high chair,playpen,bench,pew,lectern,podium,desk chair,ergonomic chair,gaming chair,folding chair,stacking chair,director's chair,deck chair,lawn chair,adirondack chair,hammock,patio table,picnic table,card table,folding table,drafting table,computer desk,standing desk,secretary desk,roll-top desk,writing desk,conference table,filing cabinet,bookcase,shelving unit,room divider,coat rack,hall tree,umbrella stand,valet stand,quilt rack,chest,trunk,footstool,hassock,pouf,bar stool,counter stool,step stool,piano bench,easel,plant stand,pedestal,magazine rack,baker's rack,wine rack,kitchen island,serving cart,bar cart,trolley,mattres,box spring,headboard,footboard"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,26.35483956,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,armchair,couch,ottoman,coffee table,nightstand,cabinet,stool,bench,recliner,loveseat,dining table,cupboard,bookcase,chest of drawer,futon,vanity,sideboard,credenza,chaise lounge,bunk bed,crib,cradle,rocking chair,armoire,headboard,footboard,entertainment center,filing cabinet,buffet,hutch,console table,end table,bar stool,folding chair,office chair,computer desk,drafting table,pantry,coat rack,shoe rack,room divider,daybed,trundle bed,canopy bed,murphy bed,bean bag,sectional,pew,altar,lectern,podium,mattres,box spring,high chair,bureau,secretary desk,nesting table"
+gemini-3-pro,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,22.3814013,"chair,table,sofa,bed,desk,dresser,wardrobe,cabinet,bookshelf,couch,ottoman,armchair,nightstand,coffee table,dining table,bench,stool,recliner,loveseat,futon,bunk bed,crib,sideboard,buffet,hutch,credenza,bookcase,armoire,chest of drawer,vanity,chaise lounge,console table,end table,filing cabinet,coat rack,room divider,entertainment center,rocking chair,barstool,sectional,headboard,footboard,mattres,cot,daybed,settee,highchair,shelving unit,bureau,cupboard,trunk,pew,lectern,workstation,murphy bed,canopy bed,beanbag,hammock,bassinet,cradle,changing table,umbrella stand,secretary desk,folding chair,folding table,patio table,picnic table,porch swing,glider,chiffonier,commode,divan,hassock"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,18.73683858,"chair,table,sofa,desk,bed,bookshelf,cabinet,dresser,stool,ottoman,wardrobe,bench,couch,dining table,coffee table,nightstand,armchair,rocking chair,recliner,futon深夜主播"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,25.1644547,"bed,chair,sofa,table,desk,dresser,bookcase,wardrobe,cabinet,shelf,stool,bench,ottoman,sideboard,drawer,armoire,chest,nightstand,console,dining table,coffee table,couch,loveseat,chaise lounge,barstool,shelf unit,bookstand,bureau,shelving,filing cabinet,tv stand,coat rack,recliner,end table,footstool,headboard,credenza,coat closet bulkhead fixture"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,19.43499613,"chair,sofa,table,desk,bed,ottoman,stool,bench,wardrobe,cabinet,bookshelf,dresser,nightstand,coffee table,dining table,console table,armchair,loveseat,yingge marble sofa recliner,chaise longue,footstool,pouf,chest,hutch,credenza,filing cabinet,futon,daybed,bunk bed,folding chair,bar stool,rocking chair,swivel chair,accent chair,pedestal table,bedside table,vanity,sideboard,buffet,shelving unit,china cabinet,display cabinet,storage bench,tv stand,sofa bed,sofa sectional,headboard,curtain pelmet"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,33.13238621,"chair,sofa,table,bed,desk,dresser,wardrobe,bookshelf,cabinet,stool,ottoman,bench,coffee table,end table,nightstand,loveseat,chaise longue,armoire,dining table,filing cabinet,console table,vanity,recliner,footstool,lamp,chest of drawer"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,18.64703417,"sofa,chair,table,bed,desk,dresser,cabinet,bookshelf,nightstand,ottoman,bench,stool,wardrobe,credenza,recliner,coffee table,couch,shelving unit,armoire,chaise lounge"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,24.24472737,"chair,sofa球的,table,bed,desk,dresser,bookshelf,cabinet,stool,bench,wardrobe,ottoman,nightstand,hutch,recliner,armchair,coffee table,dining table,dining chair,couch,shelving unit,cabinet,armoire,chaise longue,credenza,bar stool,filing cabinet,wardrobe,display case"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,42.8289535,"chair,couch,sofa,table,desk,bed,stool,cabinet,dresser,bookshelf,nightstand,wardrobe,shelving unit,bench,ottoman,recliner,cupboard,mattres,armoire,coffee table,dining table"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,24.09067178,"chair,table,sofa,bed,desk,dresser,cabinet,bookshelf,shelving unit,armchair,bench,coffee table,dining table,nightstand,ottoman,footstool,stool,wardrobe,chest of drawer,bookcase,entertainment center,couch,loveseat,daybed,futon,chaise lounge,bureau,filing cabinet,credenza,console table,end table,bed frame,headboard,armoire,dresser,vanity,buffet,hall tree,coat rack,china cabinet,bar stool,recliner,sofa bed,wardrobe,bed frame,kitchen island,step stool,folding chair,coat stand,filing cabinet"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,28.93537307,"chair,sofa,bed,table,desk,dresser,cupboard hub,cabinet,shelve,stool,ottoman,armchair,sideboard,credenza,bench,coffee table,daybed,wardrobe,bookcase,headboard,nightstand,chest of drawer,recliner,chaise longue,barstool,console table,patio furniture,folding chair,rocking chair,end table,futon,kitchen island,vanity table,filing cabinet,armoire,buffet,entertainment center,accent chair,ottoman pouf,bean bag chair,vanity,chaise,bench seat,tv stand,footstool"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,30.46159863,"chair,table,sofa,bed,desk,dresser,wardrobe,bookshelf,nightstand,ottoman,stool,bench,rocking chair,chaise lounge,coffee table,end table,dining table,bar stool,cabinet,shelving unit,armchair,loveseat,filing cabinet,console table,recliner,dresser,display cabinet,tv stand,coat rack,plant stand,sideboard,futon,sectional sofa,credenza,bunk bed"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,52.1572175,"chair,sofa,table,bed,desk,stool,bench,cabinet,wardrobe,dresser,shelf,bookcase,散户nightstand,armoire,coffee table,end table,dining table,console table,ottoman,recliner\
+armchair,loveseat,chaise longue,sectional,buffet,sideboard,hutch,credenza,chest of drawer,chest,futon,platform bed,bunk bed,canopy bed,murphy bed,bar stool,footstool,rocking chair,dining chair,director chair,bar cart,desk chair,vanity,bureau,tv stand,wardrobe,wardrobe closet,book shelve,bookshelve,wardrobe cabinet,shelving unit,cabinet,shelving module,standing desk,folding table,patio chair,patio table,garden bench,bed frame,mattress foundation,mattres"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,27.32678413,"sofa,chair,table,bed,desk,dresser,cabinet,bookshelf,wardrobe,stool,ottoman,bench,couch,armoire,dining table,nightstand,coffee table,end table,loveseat,recliner,drawer,vanity,sideboard,futon,bunk bed,cupboard,credenza,chaise lounge,console table,daybed,footstool,high chair,lamp table,dresser mirror"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,37.76883459,"chair,sofa,bed,table,desk,dresser,wardrobe,bookshelf,cabinet,stool,bench,ottoman,cupboard,nightstand,recliner,couch,armchair,coffee table,dining table,console table,end table,headboard,footboard,chest of drawer,cabinet,bookshelf,dresser,wardrobe,entertainment center,tv stand,sideboard,buffet,daybed,chaise lounge,shelf,armoire,vanity,bench,loveseat,futon,cradle,cot,crib,bar stool,counter stool,shelving unit,credenza,filing cabinet,futon,porch swing,patio chair,patio table,buffet,china cabinet,hutch,trunk,hope chest,wardrobe,folding chair,accent chair,pouf,footstool,drafting table,banquet table,camp bed,bunk bed,murphy bed"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,46.80256414,"chair,sofa,couch,table,bench,bed,desk,wardrobe,cabinet,dresser,stool,ottoman,bookshelf,shelving,lamp,footstool,nightstand,dresser,chest,end table,coffee table,dining table,armchair,recliner,chaise lounge,cabinet,armoire,console table,vanity,credenza,filing cabinet,headboard,bureau,sideboard,futon,cot,bunk bed,cubby,bookcase,bench,stool,trestle table,wardrobe,cabinet,sofa bed,divan,ottoman,pouf,plant stand,counter stool,bar stool"
+deepseek-r1-0528,"
+The procedure will be as follows: First you will be given the name or description of a category. Then you will write as many items included in that category as you can, in whatever order they happen to occur to you. The category is: ""Furniture"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of nouns.
+",6,15.85789251,"chair,table,sofa,bed,desk,dresser,bookshelf,cabinet,coffee table,stool,bench,ottoman,nightstand,wardrobe,armoire,chest of drawer,wardrobe,dining table,couch,loveseat,recliner,side table,console table,credenza,filing cabinet,patio furniture,buffet,headboard,futon"

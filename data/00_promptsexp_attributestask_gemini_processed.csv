@@ -1,0 +1,176 @@
+model,prompt,prompt_id,runtime,output
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+",0,23.49806809,"Flat Surface,Desktop, broad, horizontal, level plane, Elevation, Legs, Supports, four legs, pedestal base, trestles, cantilevered brackets, Kneehole, Leg Clearance, Storage, Organization, drawers, file drawers, pencil drawers, shelves, or cubbies, Modesty Panel, back, front, Grommets, trays, pass-throughs, Keyboard Tray, pull-out sub-surface, Hutch, optional shelving unit, Workstation, Weight Bearing, Writing Surface, hard, smooth backing, Organization, sorting, documents, stationery, office supplies, Ergonomic Support,  facilitate comfortable posture, sitting, standing, Personal Territory, personal workspace, Rigid, Hard, Smooth, Stable, Sturdy, Wood, Solid oak, mahogany, pine, veneers, MDF, particle board, laminate, Metal, Steel, aluminum, Glass, Tempered glass tops, Temperature, cool, Adjustability, Rectangular, L-shaped, U-shaped,  Kidney-shaped, Executive, Large, heavy, usually wood, double pedestal, Minimalist, Writing, Simple table-style, few drawers, Secretary, Roll-top, Cubicle, Lighting, Technology, Computers, monitors, keyboards, mice, Stationery, Pens, paper, staplers, paperclips, offices, studies, libraries, dorm rooms, schools, flat working surface, Space for knees, reading, writing, computing, storage, drawers"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+",0,22.43551636,"Flat Surface, hard, smooth, Elevation, Raised off the ground, Leg Clearance, Knee Hole, Supports, Legs, four legs, T-legs, trestles, solid pedestal bases, front, back, Sturdiness, Stability, bears weight, Rigidity, Hard structure, not pliable, Drawers, Sliding compartments, storing, stationery, files, personal items, Cabinetry, Larger storage areas with doors, sometimes lockable, Keyboard Tray, A sliding platform, Cable Management, Grommets, channels, clips, Hutch, shelving unit, Modesty Panel, Adjustability, Wood,  Solid timber, oak, mahogany, plywood, MDF, or particleboard, Metal, Steel, aluminum, Laminate, Veneer, Glass, Plastic, Texture, smooth, hard, Workstation,  administrative, academic, professional labor, Organization, Stationary, semi-permanent furniture, Personal Territory, private, individual domain, Writing Desk,  Minimalist, thin legs, few drawers, Executive Desk, Large, heavy, double-pedestal, enclosed front, often ornate, Computer Desk, Utilitarian, hardware placement, tower stand, monitor shelf, Standing, Sit-Stand Desk, Adjustable height, ergonomics, L-Shaped, Corner Desk, Secretary Desk, hinged surface, Roll-top Desk, Chair, Lighting, Productivity"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+",0,20.21585417,"Horizontal Work Surface, flat, level top, four legs, two panel legs, a pedestal base, trestles, Knee Space, Kneehole, Storage Components, drawers, cabinets, shelving, Modesty Panel, Hardware, Handles, knobs, pulls for drawers,hinges, Grommets, trays, Support, sort, store, Ergonomics, Stationary Work, intellectual tasks, manual tasks, workspace, Hardness, Rigidity, Smoothness sanded, polished, coated, heavy, Wood, Solid oak, pine, mahogany, veneers, particle board, Metal, Steel frames, industrial styles, Glass, Tempered glass tops, Laminate, Composite, Rectangular, L-Shaped, Standing, Adjustable, Mechanized lift, manual lift, Roll-top, Executive, Large, heavy, double-pedestal desks, Secretary, tall, hinged, Carrel, Offices, bedrooms, libraries, classrooms, reception areas, dorm rooms, The Chair, Computers, keyboards, monitors, printers, Stationery, Pens, paper, staplers, organizers, Desk lamps, Represents work, education, bureaucracy, authority, creativity, administration, Elevated, Not on the floor, Flat, Not slanted, Unilateral"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+",0,22.15212846,"A flat, horizontal top surface, Typically has legs, usually four legs, pedestal base, trestles, open cavity, waist-high, elbow-height, commonly rectangular, but can be L-shaped, U-shaped, kidney-shaped, or corner-fitted, front, back, board, file drawers, pencil drawers, utility drawers, Vertical storage units, pull-out shelf, Grommets, channels, clips, wires, Handles, knobs, Security mechanisms, oak, mahogany, pine, cherry,engineered wood, MDF, particle board, Steel, aluminum, Tempered glass top, Protective coatings, rigid, hard, smooth top surface, intellectual labor, administrative tasks, academic study, sort, store, arrange tools, Bears weight, personal, Minimalist, legs, surface, small drawers, for technology, Large, heavy, double-pedestal, Adjustable height mechanisms, hinged surface, flexible shutter, modular surface, Offices, bedrooms, libraries, schools, receptions, studies, Chairs, task lamps, computers, mousepads, pen cups, framed photos, wastebaskets, focus, productivity, bureaucracy, learning, creativity, clutter, single user"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+",0,22.79700089,"flat, horizontal top, Elevated by legs, pedestals, open area underneath the center of the surface to accommodate human legs and a chair, file drawers, pencil drawers, cabinets, cubbies, vertical board, , rectangular, L-shaped, U-shaped, kidney-shaped, corner-fitted, grommets, trays, or clips to organize electrical cords, pull-out sliding shelf, upper shelving unit sitting on top of the surface, designed to remain in one place, to support equipment, Designed at a specific height, used from one side only, sit-stand, motors, cranks, sorting, storing, Hard, stable, non-pliable surface, made of wood, oak, pine, cherry, composite, MDF, particleboard, metal, steel, aluminum, glass, tempered, laminate, smooth surfaces, polished, varnished, laminated, cool, metal, glass, neutral, warm, wood, hard surfaces, reflect sound, Large, heavy, wood, double pedestal, signifies authority, Minimalist, slender legs, little to no storage, smaller surface area, Utilitarian, spots for CPU towers and keyboard trays, Hinged desktop surface, many small cubbies, traditional aesthetic, flexible shutter, surface that can tilt at an angle, Higher surface, adjustable mechanism, offices, bedrooms, studies, libraries, classrooms, reception areas, Represents work, productivity, study, bureaucracy, creativity, administration, private or semi-private domain, cluttered, minimalist, clean, front, back, drawers, shelves, writing,computing"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,11.69772768,"flat surface, horizontal top, legs, drawers, storage, wood, metal, glass, laminate, particle board, sturdy, rigid, heavy, stationary, furniture, workspace, workstation, office, classroom, study, bedroom, writing surface, computer support, ergonomic, knee space, handles, knobs, hardware, rectangular, L-shaped, U-shaped, corner unit, standing, adjustable height, sit-stand, cubicle, executive, secretary, roll-top, hutch, shelves, keyboard tray, cable management, grommets, casters, wheels, modesty panel, utilitarian, decorative, antique, modern, industrial, commercial, residential, platform, tabletop, base, frame, lockable, organization, filing, smooth, hard, supporting, waist-high"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,13.38077402,"flat surface, tabletop, horizontal plane, legs, base, frame, support structure, drawers, handles, knobs, storage compartments, wood, metal, glass, plastic, laminate, particle board, veneer, rectangular, L-shaped, U-shaped, corner shape, sturdy, rigid, heavy, stationary, furniture, office equipment, workspace, workstation, writing surface, computer platform, keyboard tray, cable management, grommets, modesty panel, hutch, shelving, attached cabinet, pedestal, casters, wheels, adjustable height, sit-stand mechanism, ergonomic, knee space, chair clearance, executive style, student style, roll-top, secretary style, functional, decorative, indoor, waist-high, utilitarian, hard surface"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,14.34133744,"flat surface, tabletop, horizontal, legs, base, support, drawers, handles, knobs, storage, shelving, compartments, wood, metal, glass, plastic, laminate, veneer, sturdy, rigid, hard, smooth, rectangular, L-shaped, U-shaped, corner, adjustable height, standing, sit-stand, ergonomic, heavy, furniture, interior design, workspace, workstation, writing area, computer station, keyboard tray, cable management, grommets, modesty panel, hutch, knee space, executive, secretary, roll-top, school, cubicle, office, study, academic, professional, utilitarian, stationary, mobile, caster wheels, lockable"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,12.52478552,"flat surface, horizontal top, legs, base, frame, drawers, handles, knobs, storage compartments, sturdy, hard, wooden, metal, glass, plastic, heavy, rectangular, L-shaped, U-shaped, corner design, ergonomic, adjustable height, standing, sitting, furniture, workspace, writing surface, computer station, keyboard tray, cable management holes, grommets, modesty panel, knee space, smooth, rigid, stable, waist-high, hutch, shelves, veneer, laminate, particle board, solid wood, steel, executive, secretary, roll-top, drafting, reception, classroom, office, library, study, durable, level, supporting, functional, organizational, locking mechanism, casters, wheels."
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",1,13.05229115,"flat surface, horizontal, legs, sturdy, rigid, furniture, workspace, drawers, storage, wood, metal, glass, plastic, laminate, particle board, heavy, rectangular, L-shaped, U-shaped, corner, ergonomic, adjustable height, standing, sit-stand, keyboard tray, grommets, cable management, hutch, shelves, cabinet, modesty panel, lockable, knobs, handles, casters, wheels, desktop, workstation, writing area, computer station, gaming setup, executive, student, secretary, roll-top, floating, wall-mounted, mid-century, modern, industrial, rustic, antique, traditional, polished, matte, textured, knee space, monitor riser, utilitarian, indoor, stationary, supporting, solid"
+gemini-3-pro,"
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,9.047964573,"furniture, flat surface, legs, horizontal top, drawers, knee space, storage, wood, metal, glass, laminate, rectangular, L-shaped, corner, standing, sturdy, heavy, solid, waist-high, workspace, writing, typing, computing, studying, reading, office, classroom, bedroom, home office, library, stationary, smooth, hard, organization, compartments, shelves, keyboard tray, modesty panel, cable management, supports weight, accompanies a chair, ergonomic"
+gemini-3-pro,"
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,11.00290751,"flat surface, horizontal top, legs, support structure, knee space, drawers, storage compartments, handles, knobs, wooden, metal, plastic, glass, laminate, rectangular, L-shaped, corner-shaped, hard, smooth, rigid, sturdy, heavy, furniture, office equipment, man-made, manufactured, shelves, hutch, keyboard tray, grommets, cable management, height-adjustable, standing, sitting, writing, typing, studying, working, gaming, computer support, modesty panel, casters, wheels, stable, waist-height, ergonomic, antique, modern, utility, indoor, brown, black, white, polished, textured, file storage, workspace, classroom, library, study, cubicle"
+gemini-3-pro,"
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,14.15912175,"furniture, flat surface, horizontal top, legs, supports, hard, solid, rigid, wooden, metal, glass, laminate, plastic, sturdy, stable, heavy, smooth, rectangular, L-shaped, corner-shaped, standing, adjustable height, waist-height, knee space, drawers, handles, locks, storage, shelves, compartments, pigeonholes, keyboard tray, cable grommets, modesty panel, writing surface, workspace, computer station, used for working, used for studying, used for writing, used for reading, used for typing, supports a computer, supports lamps, supports books, supports paper, found in offices, found in classrooms, found in libraries, found in bedrooms, found in studies"
+gemini-3-pro,"
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,11.15859675,"furniture, flat surface, legs, drawers, storage, knee space, workspace, writing surface, heavy, sturdy, hard, smooth, rectangular, L-shaped, wood, metal, glass, plastic, laminate, office, school, classroom, study, bedroom, computer, keyboard tray, adjustable height, standing, sitting, stationary, horizontal, rigid, shelves, cabinets, hutch, grommets, cable management, tabletop, waist-high, supportive, organizational, functional, indoor, handles, knobs, roll-top, executive, secretary, student, platform, solid"
+gemini-3-pro,"
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",2,13.24606395,"furniture, flat surface, horizontal top, legs, support structure, drawers, handles, knee space, storage compartments, wood, metal, glass, laminate, particle board, rectangular, L-shaped, corner, U-shaped, sturdy, heavy, hard, rigid, waist-high, adjustable height, standing, smooth, polished, workspace, writing surface, holds computer, holds monitor, holds lamp, office setting, classroom setting, home study, modesty panel, keyboard tray, cable grommets, stationary, indoor, utilitarian, functional, geometric."
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,9.342227221,"flat surface, furniture, legs, drawers, wood, writing, working, study, heavy, rectangular, office, computer, sturdy, smooth, hard, storage, four legs, classroom, workspace, sitting, metal, waist-high, desktop, shelf, cabinet, ergonomic, glass, laminate, brown, black, white, typing, homework, reading, lamp, monitor, keyboard, mouse, organized, cluttered, large, solid, stationary, indoor"
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,10.69342661,"flat surface, legs, wood, drawers, furniture, writing, working, rectangular, heavy, sturdy, hard, office, school, computer, storage, knee space, smooth, horizontal, studying, metal"
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,8.123688698,"flat surface, legs, drawers, furniture, wood, metal, workspace, writing, studying, computer, office, sturdy, hard, rectangular, heavy, storage, knee space, horizontal, smooth top, table-like, classroom, organized, shelves, handles, cabinet"
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,8.959710598,"furniture, flat surface, legs, drawers, wood, metal, heavy, sturdy, rectangular, hard, smooth, used for writing, used for working, used for studying, holds a computer, found in an office, found in a school, found in a bedroom, workspace, knee space, storage, table-like, four-legged, inanimate, solid, shelves, handles, knobs"
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Provide your answer in plain text as a comma-separated list of items.
+",3,9.557093859,"furniture, flat surface, legs, drawers, wood, hard, writing, working, studying, office, school, heavy, rectangular, storage, sturdy, smooth, metal, handles, shelves, workspace, computer, holds objects, brown, classroom, solid, stationary, horizontal surface, knee space, home, interior, useful, manufactured"
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,9.959768772,"furniture, flat surface, legs, drawers, wood, metal, writing, working, studying, office, school, classroom, computer, heavy, rectangular, hard, sturdy, storage, chair, handles, smooth, knee space, horizontal, workspace, polished, varnish, four legs, solid, stationery, lamp, books, homework"
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,8.991340637,"furniture, flat surface, legs, four legs, drawers, wood, metal, plastic, writing, working, studying, computer, office, school, classroom, heavy, hard, sturdy, rectangular, storage, handles, shelves, knee space, tabletop, compartments, inanimate, interior, horizontal"
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,9.775742769,"furniture, flat surface, legs, drawers, wood, rectangular, hard, sturdy, heavy, used for writing, used for working, used for studying, office, school, storage, knee space, holds computer, holds lamp"
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,7.398316622,"flat surface, legs, drawers, wood, metal, furniture, heavy, rectangular, writing, working, studying, storage, hard, smooth, office, school, knee space, sturdy, table-like, shelves, handles, computer, lamp"
+gemini-3-pro,"
+You are a participant in an experiment.
+This is a very simple experiment to find out the characteristics and attributes common to and characteristic of different kinds of ordinary everyday objects.
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",4,15.00400877,"furniture, flat surface, legs, drawers, wood, metal, hard, smooth, rectangular, sturdy, heavy, workspace, writing, working, studying, office, school, classroom, bedroom, storage, holds computer, holds books, holds lamp, knee space, accompanied by chair, tabletop, stationary"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,9.842641115,"flat surface, legs, drawers, sturdy, wooden, metal, glass, hard, rectangular, L-shaped, U-shaped, corner, standing, adjustable height, ergonomic, workspace, writing area, storage, handles, knobs, shelves, keyboard tray, grommet, modesty panel, casters, heavy, rigid, horizontal, furniture, laminate, veneer, smooth, stable, knee space, back panel, frame, hutch, executive, student, computer support, polished, matte, stationary, mobile, desktop, cable management, file cabinet, lockable, assembly required"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,12.1626761,"flat surface, legs, drawers, desktop, workspace, furniture, sturdy, stable, rigid, heavy, wood, metal, glass, plastic, rectangular, L-shaped, U-shaped, corner, standing, adjustable height, ergonomic, writing surface, computer station, storage, shelves, cabinets, keyboard tray, cable management, grommets, modesty panel, hutch, handles, knobs, locks, casters, smooth, hard, executive, secretary, roll-top, drafting, reception, knee space, laminate, veneer, plywood, particle board, solid wood, steel frame, utilitarian, office equipment, antique, modern, industrial, rustic, polished, matte, spacious, compact, riser, file storage"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,11.71557593,"flat surface, legs, drawers, wood, metal, glass, plastic, rectangular, L-shaped, corner, standing, adjustable height, sturdy, hard, heavy, furniture, writing area, workstation, computer support, storage, shelves, compartments, handles, knobs, keyboard tray, cable management grommets, modesty panel, knee space, desktop, laminate, polished, matte, ergonomic, utilitarian, decorative, office equipment, stationary, mobile, four-legged"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,10.520365,"flat surface, legs, tabletop, drawers, frame, wood, metal, glass, plastic, laminate, rectangular, L-shaped, U-shaped, corner, standing, adjustable height, heavy, sturdy, hard, furniture, office equipment, workspace, writing surface, computer station, keyboard tray, cable management, grommets, modesty panel, hutch, shelves, handles, knobs, storage, organization, executive, student, gaming, roll-top, secretary, ergonomic, four-legged, solid, stationary, manufactured, inanimate, horizontal, knee space, smooth, polished, functional"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of items.
+",5,9.709140778,"flat surface, legs, drawers, desktop, knee space, wood, metal, glass, plastic, composite, sturdy, heavy, rectangular, L-shaped, U-shaped, corner, standing, sitting, height-adjustable, ergonomic, workstation, office furniture, writing surface, computer support, storage, shelves, hutch, keyboard tray, modesty panel, cable management grommets, handles, knobs, lockable, drawers, filing cabinet, finish, polished, matte, textured, functional, stationary, mobile, casters, risers, executive, student, reception, roll-top, secretary, drafting, vanity, gaming"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of adjectives.
+",6,15.91395307,"wooden, metal, glass, plastic, hard, flat, smooth, level, rectangular, square, L-shaped, curved, corner, large, small, wide, narrow, heavy, light, sturdy, stable, solid, durable, rigid, wobbly, ergonomic, adjustable, standing, compact, spacious, functional, utilitarian, decorative, ornate, minimalist, modern, contemporary, antique, vintage, rustic, industrial, corporate, executive, scholastic, academic, brown, black, white, beige, mahogany, oak, pine, polished, varnished, painted, matte, scratched, worn, cluttered, messy, tidy, clean, organized, compartmentalized, shelved, mobile, stationary, expensive, cheap, necessary, useful"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of adjectives.
+",6,13.41285348,"wooden, metal, glass, plastic, flat, horizontal, hard, solid, sturdy, heavy, rectangular, L-shaped, square, corner, smooth, polished, matte, textured, adjustable, ergonomic, standing, stationary, modern, antique, vintage, traditional, industrial, rustic, minimalist, contemporary, functional, utilitarian, decorative, spacious, compact, wide, narrow, low, tall, brown, black, white, beige, varnished, laminate, executive, scholastic, clerical, four-legged, rigid, stable, durable, organized, cluttered, essential, furnishing"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of adjectives.
+",6,17.59891438,"wooden, metal, glass, plastic, flat, hard, smooth, solid, sturdy, heavy, rigid, durable, stable, rectangular, square, L-shaped, curved, corner, wide, broad, narrow, compact, spacious, large, small, adjustable, standing, stationary, mobile, ergonomic, functional, utilitarian, organizational, modern, antique, vintage, rustic, industrial, traditional, sleek, minimalist, ornate, plain, polished, varnished, painted, brown, black, white, tan, beige, level, horizontal, useful, essential, domestic, professional, academic, clean, cluttered, messy, tidy"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of adjectives.
+",6,17.9833281,"wooden, metallic, glass, plastic, synthetic, flat, smooth, hard, solid, sturdy, stable, rigid, heavy, lightweight, bulky, rectangular, square, L-shaped, U-shaped, curved, circular, oval, corner, large, small, compact, wide, narrow, spacious, cramped, tall, short, low, adjustable, ergonomic, standing, portable, stationary, fixed, mobile, polished, varnished, lacquered, painted, matte, glossy, textured, grainy, modern, antique, vintage, retro, rustic, traditional, contemporary, industrial, minimalist, ornate, decorative, plain, utilitarian, functional, essential, expensive, cheap, affordable, brown, black, white, gray, beige, tan, mahogany, oak, pine, cherry, steel, chrome, leather-topped, scratched, worn, battered, pristine, new, old, dusty, messy, cluttered, tidy, organized, clean, dirty, executive, secretarial, clerical, academic, professional, domestic, interior, four-legged, flat-topped, drawer-filled, shelved, modular"
+gemini-3-pro,"
+Write all of the attributes of the object ""desk"" that you can think of. Write the attributes or characteristics you think are characteristic of the object ""desk"".
+Do not add any further details, only write the items that answer the instruction.
+Provide your answer in plain text as a comma-separated list of adjectives.
+",6,11.29522967,"wooden, flat, rectangular, sturdy, hard, smooth, solid, stationary, functional, utilitarian, heavy, rigid, ergonomic, adjustable, spacious, compact, polished, matte, L-shaped, executive, academic, professional, antique, modern, minimalistic, legged, level, elevated, supporting, metallic, glass, synthetic, modular"
